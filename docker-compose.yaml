@@ -1,0 +1,9 @@
+version: "3.9"
+services:
+  server:
+    container_name: server
+    restart: always
+    build:
+      context: ./server
+    ports:
+      - "8080:8080"
