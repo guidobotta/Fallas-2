@@ -1,5 +1,5 @@
 #from experta import Fact, KnowledgeEngine, L, Rule
-from ..customRuleEngine import Condition as L, ComparableElement as Fact, RuleEngine as KnowledgeEngine, Rule
+from .customRuleEngine import Condition as L, ComparableElement as Fact, RuleEngine as KnowledgeEngine, Rule
 
 # Possible beers
 CREAM_ALE = "Cream Ale"
@@ -19,6 +19,8 @@ class BeerAttributes(Fact):
     pass
 
 class BeerRules(KnowledgeEngine):
+    PUB_ATTRS = ('declare', 'reset', 'run', 'reset_state')
+    
     def __init__(self):
         super().__init__()
         self.candidateBeers = []
