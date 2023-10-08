@@ -95,11 +95,10 @@ class ComparableElement(dict):
         super().__init__(**kargs)
 
     def matches(self, other):
-        matches = False
         for key, comparator in self.items():
-            if key not in other:
+            if key not in other or not comparator.matches(other[key]):
                 return False
-            matches = matches and comparator.matches(other[key])
+        return True
 
 
 class Rule(object):
@@ -167,11 +166,12 @@ print(result)
 """
 
 cmp_1 = ComparableElement(color=Condition('negro'), amargor=Condition('fuerte'))
-cmp_2 = ComparableElement(color='negro', amargor='suave')
+cmp_2 = ComparableElement(color='negro', amargor='fuerte')
 
+assert cmp_1.matches(cmp_2)
 
 eng = MyRuleEngine()
-eng.declare(ComparableElement(color='negro', amargor='suave'))
+eng.declare(ComparableElement(color='negro'))
 eng.run()
 print(f"Cervezas Candidatas: {eng.candidate_beers}")
 
