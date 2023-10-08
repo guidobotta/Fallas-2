@@ -17,12 +17,6 @@ Como "facilidad" se hace abuso del Elemento a comparar y las evaluaciones de pyt
         result = cmp1 == cmp2
 
     Esto es porque tiene sentido que una condición sepa evaluar un literal, pero no vice-versa.
-
-TODO:
-    - Ver que funcionen los encadenamientos de condiciones (a | b) & (c | d)
-    - Implementar los AND.
-    - Hacer que las reglas puedan usarse como decoradores
-    - Hacer el motor en sí
 """
 
 
@@ -83,9 +77,13 @@ class ANDCC(ChainedCondition):
     """
     ANDCC: AND Chained Condition
     Return True if all of the conditions matches
-    TODO: IMPLEMENT
     """
-    pass
+    def matches(self, other):
+        matches = False
+        for condition in self.conditions:
+            _matches = condition.matches(other)
+            matches = matches and _matches
+        return matches
 
 
 class ComparableElement(dict):
@@ -107,17 +105,67 @@ class Rule(object):
     def __init__(self, *args):
         self.comparables = args
 
+    def __call__(self, original_method):
+        def wrapped(instance, other, *args, **kwargs):
+            if self.matches(other):
+                return original_method(instance, *args, **kwargs)
+
+        return wrapped
+
     def matches(self, element: ComparableElement):
         return all(comparable.matches(element) for comparable in self.comparables)
 
 
+class RuleEngine(object):
+    def __init__(self):
+        self.other = None
+        self.rules = self._set_rules()
 
+    def _set_rules(self):
+        _rules = []
+        callables = [method_name for method_name in dir(self) if callable(getattr(self, method_name))]
+        return [callable for callable in callables if not callable.startswith('_') and callable not in ('declare', 'run')]
+
+    def declare(self, other):
+        self.other = other
+
+    def run(self):
+        for rule in self.rules:
+            getattr(self, rule)(self.other)
+
+
+
+class MyRuleEngine(RuleEngine):
+    def __init__(self):
+        self.candidate_beers = []
+        super().__init__()
+
+    @Rule(ComparableElement(color=Condition('blanco')))
+    def r1_blanco(self):
+        self.candidate_beers.append('cerveza_blanca')
+
+    @Rule(ComparableElement(color=Condition('negro')))
+    def r2_negro(self):
+        self.candidate_beers.append('cerveza_negra')
+
+    @Rule(ComparableElement(amargor=Condition('suave')))
+    def r3_suave(self):
+        self.candidate_beers.append('cerveza_suave')
+
+
+"""
 x = Condition("foo") | Condition("aaa") & Condition("bbb")
 y = ComparableElement(x='foo', y='baar')
 
-myrule = Rule(ComparableElement(color=Condition('blanco') | Condition('negro')))
+myrule = Rule(ComparableElement(color=Condition('blanco') | Condition('negro') | Condition('fuxia')))
 
-myelement = ComparableElement(color='blanco')
+myelement = ComparableElement(color='azul')
 
 result = myrule.matches(myelement)
 print(result)
+"""
+
+eng = MyRuleEngine()
+eng.declare(ComparableElement(color='blanco', amargor='suave'))
+eng.run()
+print(f"Cervezas Candidatas: {eng.candidate_beers}")
