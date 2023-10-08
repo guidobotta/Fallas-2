@@ -1,4 +1,5 @@
-from experta import Fact, KnowledgeEngine, L, Rule
+#from experta import Fact, KnowledgeEngine, L, Rule
+from ..customRuleEngine import Condition as L, ComparableElement as Fact, RuleEngine as KnowledgeEngine, Rule
 
 # Possible beers
 CREAM_ALE = "Cream Ale"
@@ -166,3 +167,19 @@ def getCandidateBeers(data):
         "candidateBeers": engine.candidateBeers,
         "nextQuestion": next_quesiton,
     }
+
+
+engine = BeerRules()
+engine.reset()
+engine.declare(
+    BeerAttributes(
+        intensity="media",
+        color="palido",
+        bitterness="bajo",
+        hop="nuevo mundo",
+        fermentation="media",
+        yeast="ale",
+    )
+)
+engine.run()
+print(f"Diagnostico: {engine.candidateBeers}")

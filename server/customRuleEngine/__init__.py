@@ -144,13 +144,20 @@ class MyRuleEngine(RuleEngine):
     def r1_blanco(self):
         self.candidate_beers.append('cerveza_blanca')
 
-    @Rule(ComparableElement(color=Condition('negro')))
+    @Rule(ComparableElement(color=Condition('negro'), amargor=Condition('fuerte')))
     def r2_negro(self):
         self.candidate_beers.append('cerveza_negra')
 
-    @Rule(ComparableElement(amargor=Condition('suave')))
+    @Rule(
+        ComparableElement(intensity=Condition("media") | Condition("*")),
+        ComparableElement(color=Condition("palido") | Condition("*")),
+        ComparableElement(bitterness=Condition("bajo") | Condition("medio") | Condition("*")),
+        ComparableElement(hop=Condition("viejo mundo") | Condition("*")),
+        ComparableElement(fermentation=Condition("alta") | Condition("*")),
+        ComparableElement(yeast=Condition("ale") | Condition("*")),
+    )
     def r3_suave(self):
-        self.candidate_beers.append('cerveza_suave')
+        self.candidate_beers.append('kolsh')
 
 
 """
@@ -165,13 +172,17 @@ result = myrule.matches(myelement)
 print(result)
 """
 
-cmp_1 = ComparableElement(color=Condition('negro'), amargor=Condition('fuerte'))
-cmp_2 = ComparableElement(color='negro', amargor='fuerte')
+#cmp_1 = ComparableElement(color=Condition('negro'), amargor=Condition('fuerte'))
+#cmp_2 = ComparableElement(color='negro', amargor='fuerte')
 
-assert cmp_1.matches(cmp_2)
+#assert cmp_1.matches(cmp_2)
 
+"""
 eng = MyRuleEngine()
-eng.declare(ComparableElement(color='negro'))
+eng.declare(ComparableElement(color='palido', bitterness='bajo', intensity='*', hop='*', fermentation='*', yeast='*'))
+eng.run()
+
+eng.declare(ComparableElement(color='AAAA', bitterness='bajo', intensity='*', hop='*', fermentation='*', yeast='*'))
 eng.run()
 print(f"Cervezas Candidatas: {eng.candidate_beers}")
-
+"""
