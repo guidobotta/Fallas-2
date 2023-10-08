@@ -19,8 +19,8 @@ class BeerAttributes(Fact):
     pass
 
 class BeerRules(KnowledgeEngine):
-    PUB_ATTRS = ('declare', 'reset', 'run', 'reset_state')
-    
+    PUB_ATTRS = ('reset_state', ) + KnowledgeEngine.PUB_ATTRS
+
     def __init__(self):
         super().__init__()
         self.candidateBeers = []
