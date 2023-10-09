@@ -18,6 +18,7 @@ Como "facilidad" se hace abuso del Elemento a comparar y las evaluaciones de pyt
 
     Esto es porque tiene sentido que una condición sepa evaluar un literal, pero no vice-versa.
 """
+from collections import defaultdict
 
 
 class Condition(object):
@@ -41,6 +42,9 @@ class Condition(object):
     def matches(self, other):
         return self == other
 
+    def jsonify(self):
+        return {self.value}
+
 
 class ChainedCondition(object):
     """
@@ -58,6 +62,12 @@ class ChainedCondition(object):
 
     def matches(self, other):
         raise NotImplemented
+
+    def jsonify(self):
+        res = set()
+        for condition in self.conditions:
+            res = res | condition.jsonify()
+        return res
 
 
 class ORCC(ChainedCondition):
@@ -94,6 +104,9 @@ class ComparableElement(dict):
     def __init__(self, **kargs):
         super().__init__(**kargs)
 
+    def jsonify(self):
+        return {key: value.jsonify() for key, value in self.items()}
+
     def matches(self, other):
         for key, comparator in self.items():
             if key not in other or not comparator.matches(other[key]):
@@ -108,6 +121,7 @@ class Rule(object):
     def __call__(self, original_method):
         def wrapped(instance, other, *args, **kwargs):
             if self.matches(other):
+                instance.append_matching_attributes(self.jsonify())
                 return original_method(instance, *args, **kwargs)
 
         return wrapped
@@ -115,16 +129,33 @@ class Rule(object):
     def matches(self, element: ComparableElement):
         return all(comparable.matches(element) for comparable in self.comparables)
 
+    def jsonify(self):
+        res = {}
+        for comparable in self.comparables:
+            res.update(comparable.jsonify())
+        return res
+
 
 class RuleEngine(object):
+    PUB_ATTRS = ('declare', 'reset', 'run', 'append_matching_attributes')
+
     def __init__(self):
         self.other = None
         self.rules = self._set_rules()
+        self.matching_attributes = defaultdict(set)
+
+    def reset(self):
+        self.other = None
+        self.matching_attributes = defaultdict(set)
 
     def _set_rules(self):
         _rules = []
         callables = [method_name for method_name in dir(self) if callable(getattr(self, method_name))]
-        return [callable for callable in callables if not callable.startswith('_') and callable not in ('declare', 'run')]
+        return [callable for callable in callables if not callable.startswith('_') and callable not in self.PUB_ATTRS]
+
+    def append_matching_attributes(self, attributes):
+        for key, value_set in attributes.items():
+            self.matching_attributes[key] = self.matching_attributes[key] | value_set
 
     def declare(self, other):
         self.other = other
@@ -134,9 +165,8 @@ class RuleEngine(object):
             getattr(self, rule)(self.other)
 
 
-
 class MyRuleEngine(RuleEngine):
-    def __init__(self):
+    def __init__(self, ):
         self.candidate_beers = []
         super().__init__()
 
@@ -159,30 +189,55 @@ class MyRuleEngine(RuleEngine):
     def r3_suave(self):
         self.candidate_beers.append('kolsh')
 
+    @Rule(
+        ComparableElement(intensity=Condition("baja") | Condition("media") | Condition("*")),
+        ComparableElement(color=Condition("palido") | Condition("*")),
+        ComparableElement(bitterness=Condition("bajo") | Condition("medio") | Condition("*")),
+        ComparableElement(hop=Condition("nuevo mundo") | Condition("*")),
+        ComparableElement(fermentation=Condition("media") | Condition("*")),
+        ComparableElement(yeast=Condition("ale") | Condition("*")),
+    )
+    def creamAle(self):
+        self.candidate_beers.append('cream_ale')
 
-"""
-x = Condition("foo") | Condition("aaa") & Condition("bbb")
-y = ComparableElement(x='foo', y='baar')
 
-myrule = Rule(ComparableElement(color=Condition('blanco') | Condition('negro') | Condition('fuxia')))
+## SOLO A MODO DE EJEMPLO PARA HACER PRUEBAS
+## TODO: BORRAR
 
-myelement = ComparableElement(color='azul')
+def main():
+    aux = ComparableElement(color=Condition('blanco') | Condition('negro') | Condition('fuxia'),
+                            amargor=Condition('suave') | Condition('fooo'))
 
-result = myrule.matches(myelement)
-print(result)
-"""
+    aux = Rule(
+            ComparableElement(intensity=Condition("media") | Condition("*")),
+            ComparableElement(color=Condition("palido") | Condition("*")),
+            ComparableElement(bitterness=Condition("bajo") | Condition("medio") | Condition("*")),
+            ComparableElement(hop=Condition("viejo mundo") | Condition("*")),
+            ComparableElement(fermentation=Condition("alta") | Condition("*")),
+            ComparableElement(yeast=Condition("ale") | Condition("*")),
+        )
 
-#cmp_1 = ComparableElement(color=Condition('negro'), amargor=Condition('fuerte'))
-#cmp_2 = ComparableElement(color='negro', amargor='fuerte')
+    """
+    x = Condition("foo") | Condition("aaa") & Condition("bbb")
+    y = ComparableElement(x='foo', y='baar')
+    
+    myrule = Rule(ComparableElement(color=Condition('blanco') | Condition('negro') | Condition('fuxia')))
+    
+    myelement = ComparableElement(color='azul')
+    
+    result = myrule.matches(myelement)
+    print(result)
+    """
 
-#assert cmp_1.matches(cmp_2)
+    #cmp_1 = ComparableElement(color=Condition('negro'), amargor=Condition('fuerte'))
+    #cmp_2 = ComparableElement(color='negro', amargor='fuerte')
 
-"""
-eng = MyRuleEngine()
-eng.declare(ComparableElement(color='palido', bitterness='bajo', intensity='*', hop='*', fermentation='*', yeast='*'))
-eng.run()
+    #assert cmp_1.matches(cmp_2)
 
-eng.declare(ComparableElement(color='AAAA', bitterness='bajo', intensity='*', hop='*', fermentation='*', yeast='*'))
-eng.run()
-print(f"Cervezas Candidatas: {eng.candidate_beers}")
-"""
+
+    eng = MyRuleEngine()
+    eng.declare(ComparableElement(color='*', bitterness='*', intensity='*', hop='*', fermentation='*', yeast='*'))
+    eng.run()
+    print(f"Cervezas Candidatas: {eng.candidate_beers}")
+
+    print(f"Atributos que matchearon: {dict(eng.matching_attributes)}")

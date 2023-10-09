@@ -1,5 +1,5 @@
 #from experta import Fact, KnowledgeEngine, L, Rule
-from .customRuleEngine import Condition as L, ComparableElement as Fact, RuleEngine as KnowledgeEngine, Rule
+from customRuleEngine import Condition as L, ComparableElement as Fact, RuleEngine as KnowledgeEngine, Rule
 
 # Possible beers
 CREAM_ALE = "Cream Ale"
