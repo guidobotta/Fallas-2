@@ -113,7 +113,6 @@ class ComparableElement(dict):
                 return False
         return True
 
-
 class Rule(object):
     def __init__(self, *args):
         self.comparables = args
@@ -135,18 +134,22 @@ class Rule(object):
             res.update(comparable.jsonify())
         return res
 
+class AttributeInfo():
+    def __init__(self):
+        self.attribute = set({})
+        self.attribute_amount = 0
 
 class RuleEngine(object):
-    PUB_ATTRS = ('declare', 'reset', 'run', 'append_matching_attributes')
+    PUB_ATTRS = ('declare', 'reset', 'run', 'append_matching_attributes', 'get_executed_rules_attribute_variance')
 
     def __init__(self):
         self.other = None
         self.rules = self._set_rules()
-        self.matching_attributes = defaultdict(set)
+        self.matching_attributes = {}
 
     def reset(self):
         self.other = None
-        self.matching_attributes = defaultdict(set)
+        self.matching_attributes = {}
 
     def _set_rules(self):
         _rules = []
@@ -155,89 +158,20 @@ class RuleEngine(object):
 
     def append_matching_attributes(self, attributes):
         for key, value_set in attributes.items():
-            self.matching_attributes[key] = self.matching_attributes[key] | value_set
+            attributeInfo = self.matching_attributes.get(key, AttributeInfo())
+            attributeInfo.attribute = attributeInfo.attribute.union(value_set)
+            attributeInfo.attribute_amount += len(value_set)
+            self.matching_attributes[key] = attributeInfo
 
+    def get_executed_rules_attribute_variance(self):
+        attribute_variance = []
+        for key, attributeInfo in self.matching_attributes.items():
+            attribute_variance.append((key, attributeInfo.attribute, attributeInfo.attribute_amount))
+        return attribute_variance
+    
     def declare(self, other):
         self.other = other
 
     def run(self):
         for rule in self.rules:
             getattr(self, rule)(self.other)
-
-
-class MyRuleEngine(RuleEngine):
-    def __init__(self, ):
-        self.candidate_beers = []
-        super().__init__()
-
-    @Rule(ComparableElement(color=Condition('blanco')))
-    def r1_blanco(self):
-        self.candidate_beers.append('cerveza_blanca')
-
-    @Rule(ComparableElement(color=Condition('negro'), amargor=Condition('fuerte')))
-    def r2_negro(self):
-        self.candidate_beers.append('cerveza_negra')
-
-    @Rule(
-        ComparableElement(intensity=Condition("media") | Condition("*")),
-        ComparableElement(color=Condition("palido") | Condition("*")),
-        ComparableElement(bitterness=Condition("bajo") | Condition("medio") | Condition("*")),
-        ComparableElement(hop=Condition("viejo mundo") | Condition("*")),
-        ComparableElement(fermentation=Condition("alta") | Condition("*")),
-        ComparableElement(yeast=Condition("ale") | Condition("*")),
-    )
-    def r3_suave(self):
-        self.candidate_beers.append('kolsh')
-
-    @Rule(
-        ComparableElement(intensity=Condition("baja") | Condition("media") | Condition("*")),
-        ComparableElement(color=Condition("palido") | Condition("*")),
-        ComparableElement(bitterness=Condition("bajo") | Condition("medio") | Condition("*")),
-        ComparableElement(hop=Condition("nuevo mundo") | Condition("*")),
-        ComparableElement(fermentation=Condition("media") | Condition("*")),
-        ComparableElement(yeast=Condition("ale") | Condition("*")),
-    )
-    def creamAle(self):
-        self.candidate_beers.append('cream_ale')
-
-
-## SOLO A MODO DE EJEMPLO PARA HACER PRUEBAS
-## TODO: BORRAR
-
-def main():
-    aux = ComparableElement(color=Condition('blanco') | Condition('negro') | Condition('fuxia'),
-                            amargor=Condition('suave') | Condition('fooo'))
-
-    aux = Rule(
-            ComparableElement(intensity=Condition("media") | Condition("*")),
-            ComparableElement(color=Condition("palido") | Condition("*")),
-            ComparableElement(bitterness=Condition("bajo") | Condition("medio") | Condition("*")),
-            ComparableElement(hop=Condition("viejo mundo") | Condition("*")),
-            ComparableElement(fermentation=Condition("alta") | Condition("*")),
-            ComparableElement(yeast=Condition("ale") | Condition("*")),
-        )
-
-    """
-    x = Condition("foo") | Condition("aaa") & Condition("bbb")
-    y = ComparableElement(x='foo', y='baar')
-    
-    myrule = Rule(ComparableElement(color=Condition('blanco') | Condition('negro') | Condition('fuxia')))
-    
-    myelement = ComparableElement(color='azul')
-    
-    result = myrule.matches(myelement)
-    print(result)
-    """
-
-    #cmp_1 = ComparableElement(color=Condition('negro'), amargor=Condition('fuerte'))
-    #cmp_2 = ComparableElement(color='negro', amargor='fuerte')
-
-    #assert cmp_1.matches(cmp_2)
-
-
-    eng = MyRuleEngine()
-    eng.declare(ComparableElement(color='*', bitterness='*', intensity='*', hop='*', fermentation='*', yeast='*'))
-    eng.run()
-    print(f"Cervezas Candidatas: {eng.candidate_beers}")
-
-    print(f"Atributos que matchearon: {dict(eng.matching_attributes)}")

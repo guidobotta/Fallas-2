@@ -149,39 +149,12 @@ def getCandidateBeers(data):
         }
 
     definedProperties = list(filter(lambda key: data[key] != "*", data.keys()))
-    storedCantidateProperties = {}
-
-    for candidateProperty in engine.cantidateProperties:
-        for key in candidateProperty.keys():
-            if key in definedProperties:
-                continue
-
-            storedCandidateProperty = storedCantidateProperties.get(key, BeerProperty())
-            storedCandidateProperty.property = storedCandidateProperty.property.union(candidateProperty[key])
-            storedCandidateProperty.property_amount += len(candidateProperty[key])
-            storedCandidateProperty.name = key
-            storedCantidateProperties[key] = storedCandidateProperty
-
-    next_quesiton = max(list(storedCantidateProperties.values()), key=lambda x: (len(x.property), -x.property_amount)).name
+    attributeVariance = engine.get_executed_rules_attribute_variance()
+    attributeVariance = filter(lambda attribute: attribute[0] not in definedProperties, attributeVariance)
+    next_quesiton = max(attributeVariance, key=lambda x: (len(x[1]), -x[2]))[0]
     print(next_quesiton)
 
     return {
         "candidateBeers": engine.candidateBeers,
         "nextQuestion": next_quesiton,
     }
-
-
-engine = BeerRules()
-engine.reset()
-engine.declare(
-    BeerAttributes(
-        intensity="media",
-        color="palido",
-        bitterness="bajo",
-        hop="nuevo mundo",
-        fermentation="media",
-        yeast="ale",
-    )
-)
-engine.run()
-print(f"Diagnostico: {engine.candidateBeers}")
