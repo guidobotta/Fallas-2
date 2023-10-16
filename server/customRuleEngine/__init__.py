@@ -174,4 +174,5 @@ class RuleEngine(object):
 
     def run(self):
         for rule in self.rules:
-            getattr(self, rule)(self.other)
+            if(getattr(self, rule)(self.other)):
+                return
