@@ -1,2 +1,9 @@
 .idea/
 __pycache__/
+
+
+Notebooks/img/
+Notebook/imgBsc/*
+Notebook/logs*
+Notebook/causal*
+*ipynb_checkpoints

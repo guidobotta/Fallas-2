@@ -140,7 +140,7 @@ def getCandidateBeers(data):
         )
     )
     engine.run()
-    print(data)
+    #print(data)
 
     if not engine.candidateBeers:
         return {
@@ -150,9 +150,9 @@ def getCandidateBeers(data):
 
     definedProperties = list(filter(lambda key: data[key] != "*", data.keys()))
     attributeVariance = engine.get_executed_rules_attribute_variance()
-    attributeVariance = filter(lambda attribute: attribute[0] not in definedProperties, attributeVariance)
-    next_quesiton = max(attributeVariance, key=lambda x: (len(x[1]), -x[2]))[0]
-    print(next_quesiton)
+    attributeVariance = list(filter(lambda attribute: attribute[0] not in definedProperties, attributeVariance))
+    next_quesiton = max(attributeVariance, key=lambda x: (len(x[1]), -x[2]))[0] if attributeVariance else None
+    #print(next_quesiton)
 
     return {
         "candidateBeers": engine.candidateBeers,
