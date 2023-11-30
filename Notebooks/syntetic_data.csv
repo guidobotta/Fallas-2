@@ -1,0 +1,2291 @@
+intensity,color,bitterness,hop,fermentation,yeast,beer
+baja,palido,bajo,viejo mundo,baja,lager,None
+baja,palido,bajo,viejo mundo,baja,ale,None
+baja,palido,bajo,viejo mundo,baja,*,None
+baja,palido,bajo,viejo mundo,media,lager,None
+baja,palido,bajo,viejo mundo,media,ale,None
+baja,palido,bajo,viejo mundo,media,*,None
+baja,palido,bajo,viejo mundo,alta,lager,None
+baja,palido,bajo,viejo mundo,alta,ale,None
+baja,palido,bajo,viejo mundo,alta,*,None
+baja,palido,bajo,viejo mundo,*,lager,None
+baja,palido,bajo,viejo mundo,*,ale,None
+baja,palido,bajo,viejo mundo,*,*,None
+baja,palido,bajo,nuevo mundo,baja,lager,None
+baja,palido,bajo,nuevo mundo,baja,ale,None
+baja,palido,bajo,nuevo mundo,baja,*,None
+baja,palido,bajo,nuevo mundo,media,lager,None
+baja,palido,bajo,nuevo mundo,media,ale,Cream Ale
+baja,palido,bajo,nuevo mundo,media,*,Cream Ale
+baja,palido,bajo,nuevo mundo,alta,lager,None
+baja,palido,bajo,nuevo mundo,alta,ale,None
+baja,palido,bajo,nuevo mundo,alta,*,None
+baja,palido,bajo,nuevo mundo,*,lager,None
+baja,palido,bajo,nuevo mundo,*,ale,Cream Ale
+baja,palido,bajo,nuevo mundo,*,*,Cream Ale
+baja,palido,bajo,*,baja,lager,None
+baja,palido,bajo,*,baja,ale,None
+baja,palido,bajo,*,baja,*,None
+baja,palido,bajo,*,media,lager,None
+baja,palido,bajo,*,media,ale,Cream Ale
+baja,palido,bajo,*,media,*,Cream Ale
+baja,palido,bajo,*,alta,lager,None
+baja,palido,bajo,*,alta,ale,None
+baja,palido,bajo,*,alta,*,None
+baja,palido,bajo,*,*,lager,None
+baja,palido,bajo,*,*,ale,Cream Ale
+baja,palido,bajo,*,*,*,Cream Ale
+baja,palido,medio,viejo mundo,baja,lager,None
+baja,palido,medio,viejo mundo,baja,ale,None
+baja,palido,medio,viejo mundo,baja,*,None
+baja,palido,medio,viejo mundo,media,lager,None
+baja,palido,medio,viejo mundo,media,ale,None
+baja,palido,medio,viejo mundo,media,*,None
+baja,palido,medio,viejo mundo,alta,lager,None
+baja,palido,medio,viejo mundo,alta,ale,None
+baja,palido,medio,viejo mundo,alta,*,None
+baja,palido,medio,viejo mundo,*,lager,None
+baja,palido,medio,viejo mundo,*,ale,None
+baja,palido,medio,viejo mundo,*,*,None
+baja,palido,medio,nuevo mundo,baja,lager,None
+baja,palido,medio,nuevo mundo,baja,ale,None
+baja,palido,medio,nuevo mundo,baja,*,None
+baja,palido,medio,nuevo mundo,media,lager,None
+baja,palido,medio,nuevo mundo,media,ale,Cream Ale
+baja,palido,medio,nuevo mundo,media,*,Cream Ale
+baja,palido,medio,nuevo mundo,alta,lager,None
+baja,palido,medio,nuevo mundo,alta,ale,None
+baja,palido,medio,nuevo mundo,alta,*,None
+baja,palido,medio,nuevo mundo,*,lager,None
+baja,palido,medio,nuevo mundo,*,ale,Cream Ale
+baja,palido,medio,nuevo mundo,*,*,Cream Ale
+baja,palido,medio,*,baja,lager,None
+baja,palido,medio,*,baja,ale,None
+baja,palido,medio,*,baja,*,None
+baja,palido,medio,*,media,lager,None
+baja,palido,medio,*,media,ale,Cream Ale
+baja,palido,medio,*,media,*,Cream Ale
+baja,palido,medio,*,alta,lager,None
+baja,palido,medio,*,alta,ale,None
+baja,palido,medio,*,alta,*,None
+baja,palido,medio,*,*,lager,None
+baja,palido,medio,*,*,ale,Cream Ale
+baja,palido,medio,*,*,*,Cream Ale
+baja,palido,alto,viejo mundo,baja,lager,None
+baja,palido,alto,viejo mundo,baja,ale,None
+baja,palido,alto,viejo mundo,baja,*,None
+baja,palido,alto,viejo mundo,media,lager,None
+baja,palido,alto,viejo mundo,media,ale,None
+baja,palido,alto,viejo mundo,media,*,None
+baja,palido,alto,viejo mundo,alta,lager,None
+baja,palido,alto,viejo mundo,alta,ale,None
+baja,palido,alto,viejo mundo,alta,*,None
+baja,palido,alto,viejo mundo,*,lager,None
+baja,palido,alto,viejo mundo,*,ale,None
+baja,palido,alto,viejo mundo,*,*,None
+baja,palido,alto,nuevo mundo,baja,lager,None
+baja,palido,alto,nuevo mundo,baja,ale,None
+baja,palido,alto,nuevo mundo,baja,*,None
+baja,palido,alto,nuevo mundo,media,lager,None
+baja,palido,alto,nuevo mundo,media,ale,None
+baja,palido,alto,nuevo mundo,media,*,None
+baja,palido,alto,nuevo mundo,alta,lager,None
+baja,palido,alto,nuevo mundo,alta,ale,None
+baja,palido,alto,nuevo mundo,alta,*,None
+baja,palido,alto,nuevo mundo,*,lager,None
+baja,palido,alto,nuevo mundo,*,ale,None
+baja,palido,alto,nuevo mundo,*,*,None
+baja,palido,alto,*,baja,lager,None
+baja,palido,alto,*,baja,ale,None
+baja,palido,alto,*,baja,*,None
+baja,palido,alto,*,media,lager,None
+baja,palido,alto,*,media,ale,None
+baja,palido,alto,*,media,*,None
+baja,palido,alto,*,alta,lager,None
+baja,palido,alto,*,alta,ale,None
+baja,palido,alto,*,alta,*,None
+baja,palido,alto,*,*,lager,None
+baja,palido,alto,*,*,ale,None
+baja,palido,alto,*,*,*,None
+baja,palido,*,viejo mundo,baja,lager,None
+baja,palido,*,viejo mundo,baja,ale,None
+baja,palido,*,viejo mundo,baja,*,None
+baja,palido,*,viejo mundo,media,lager,None
+baja,palido,*,viejo mundo,media,ale,None
+baja,palido,*,viejo mundo,media,*,None
+baja,palido,*,viejo mundo,alta,lager,None
+baja,palido,*,viejo mundo,alta,ale,None
+baja,palido,*,viejo mundo,alta,*,None
+baja,palido,*,viejo mundo,*,lager,None
+baja,palido,*,viejo mundo,*,ale,None
+baja,palido,*,viejo mundo,*,*,None
+baja,palido,*,nuevo mundo,baja,lager,None
+baja,palido,*,nuevo mundo,baja,ale,None
+baja,palido,*,nuevo mundo,baja,*,None
+baja,palido,*,nuevo mundo,media,lager,None
+baja,palido,*,nuevo mundo,media,ale,Cream Ale
+baja,palido,*,nuevo mundo,media,*,Cream Ale
+baja,palido,*,nuevo mundo,alta,lager,None
+baja,palido,*,nuevo mundo,alta,ale,None
+baja,palido,*,nuevo mundo,alta,*,None
+baja,palido,*,nuevo mundo,*,lager,None
+baja,palido,*,nuevo mundo,*,ale,Cream Ale
+baja,palido,*,nuevo mundo,*,*,Cream Ale
+baja,palido,*,*,baja,lager,None
+baja,palido,*,*,baja,ale,None
+baja,palido,*,*,baja,*,None
+baja,palido,*,*,media,lager,None
+baja,palido,*,*,media,ale,Cream Ale
+baja,palido,*,*,media,*,Cream Ale
+baja,palido,*,*,alta,lager,None
+baja,palido,*,*,alta,ale,None
+baja,palido,*,*,alta,*,None
+baja,palido,*,*,*,lager,None
+baja,palido,*,*,*,ale,Cream Ale
+baja,palido,*,*,*,*,Cream Ale
+baja,ambar,bajo,viejo mundo,baja,lager,None
+baja,ambar,bajo,viejo mundo,baja,ale,None
+baja,ambar,bajo,viejo mundo,baja,*,None
+baja,ambar,bajo,viejo mundo,media,lager,None
+baja,ambar,bajo,viejo mundo,media,ale,None
+baja,ambar,bajo,viejo mundo,media,*,None
+baja,ambar,bajo,viejo mundo,alta,lager,None
+baja,ambar,bajo,viejo mundo,alta,ale,None
+baja,ambar,bajo,viejo mundo,alta,*,None
+baja,ambar,bajo,viejo mundo,*,lager,None
+baja,ambar,bajo,viejo mundo,*,ale,None
+baja,ambar,bajo,viejo mundo,*,*,None
+baja,ambar,bajo,nuevo mundo,baja,lager,None
+baja,ambar,bajo,nuevo mundo,baja,ale,None
+baja,ambar,bajo,nuevo mundo,baja,*,None
+baja,ambar,bajo,nuevo mundo,media,lager,None
+baja,ambar,bajo,nuevo mundo,media,ale,None
+baja,ambar,bajo,nuevo mundo,media,*,None
+baja,ambar,bajo,nuevo mundo,alta,lager,None
+baja,ambar,bajo,nuevo mundo,alta,ale,None
+baja,ambar,bajo,nuevo mundo,alta,*,None
+baja,ambar,bajo,nuevo mundo,*,lager,None
+baja,ambar,bajo,nuevo mundo,*,ale,None
+baja,ambar,bajo,nuevo mundo,*,*,None
+baja,ambar,bajo,*,baja,lager,None
+baja,ambar,bajo,*,baja,ale,None
+baja,ambar,bajo,*,baja,*,None
+baja,ambar,bajo,*,media,lager,None
+baja,ambar,bajo,*,media,ale,None
+baja,ambar,bajo,*,media,*,None
+baja,ambar,bajo,*,alta,lager,None
+baja,ambar,bajo,*,alta,ale,None
+baja,ambar,bajo,*,alta,*,None
+baja,ambar,bajo,*,*,lager,None
+baja,ambar,bajo,*,*,ale,None
+baja,ambar,bajo,*,*,*,None
+baja,ambar,medio,viejo mundo,baja,lager,None
+baja,ambar,medio,viejo mundo,baja,ale,None
+baja,ambar,medio,viejo mundo,baja,*,None
+baja,ambar,medio,viejo mundo,media,lager,None
+baja,ambar,medio,viejo mundo,media,ale,None
+baja,ambar,medio,viejo mundo,media,*,None
+baja,ambar,medio,viejo mundo,alta,lager,None
+baja,ambar,medio,viejo mundo,alta,ale,None
+baja,ambar,medio,viejo mundo,alta,*,None
+baja,ambar,medio,viejo mundo,*,lager,None
+baja,ambar,medio,viejo mundo,*,ale,None
+baja,ambar,medio,viejo mundo,*,*,None
+baja,ambar,medio,nuevo mundo,baja,lager,None
+baja,ambar,medio,nuevo mundo,baja,ale,None
+baja,ambar,medio,nuevo mundo,baja,*,None
+baja,ambar,medio,nuevo mundo,media,lager,None
+baja,ambar,medio,nuevo mundo,media,ale,None
+baja,ambar,medio,nuevo mundo,media,*,None
+baja,ambar,medio,nuevo mundo,alta,lager,None
+baja,ambar,medio,nuevo mundo,alta,ale,None
+baja,ambar,medio,nuevo mundo,alta,*,None
+baja,ambar,medio,nuevo mundo,*,lager,None
+baja,ambar,medio,nuevo mundo,*,ale,None
+baja,ambar,medio,nuevo mundo,*,*,None
+baja,ambar,medio,*,baja,lager,None
+baja,ambar,medio,*,baja,ale,None
+baja,ambar,medio,*,baja,*,None
+baja,ambar,medio,*,media,lager,None
+baja,ambar,medio,*,media,ale,None
+baja,ambar,medio,*,media,*,None
+baja,ambar,medio,*,alta,lager,None
+baja,ambar,medio,*,alta,ale,None
+baja,ambar,medio,*,alta,*,None
+baja,ambar,medio,*,*,lager,None
+baja,ambar,medio,*,*,ale,None
+baja,ambar,medio,*,*,*,None
+baja,ambar,alto,viejo mundo,baja,lager,None
+baja,ambar,alto,viejo mundo,baja,ale,None
+baja,ambar,alto,viejo mundo,baja,*,None
+baja,ambar,alto,viejo mundo,media,lager,None
+baja,ambar,alto,viejo mundo,media,ale,None
+baja,ambar,alto,viejo mundo,media,*,None
+baja,ambar,alto,viejo mundo,alta,lager,None
+baja,ambar,alto,viejo mundo,alta,ale,None
+baja,ambar,alto,viejo mundo,alta,*,None
+baja,ambar,alto,viejo mundo,*,lager,None
+baja,ambar,alto,viejo mundo,*,ale,None
+baja,ambar,alto,viejo mundo,*,*,None
+baja,ambar,alto,nuevo mundo,baja,lager,None
+baja,ambar,alto,nuevo mundo,baja,ale,None
+baja,ambar,alto,nuevo mundo,baja,*,None
+baja,ambar,alto,nuevo mundo,media,lager,None
+baja,ambar,alto,nuevo mundo,media,ale,None
+baja,ambar,alto,nuevo mundo,media,*,None
+baja,ambar,alto,nuevo mundo,alta,lager,None
+baja,ambar,alto,nuevo mundo,alta,ale,None
+baja,ambar,alto,nuevo mundo,alta,*,None
+baja,ambar,alto,nuevo mundo,*,lager,None
+baja,ambar,alto,nuevo mundo,*,ale,None
+baja,ambar,alto,nuevo mundo,*,*,None
+baja,ambar,alto,*,baja,lager,None
+baja,ambar,alto,*,baja,ale,None
+baja,ambar,alto,*,baja,*,None
+baja,ambar,alto,*,media,lager,None
+baja,ambar,alto,*,media,ale,None
+baja,ambar,alto,*,media,*,None
+baja,ambar,alto,*,alta,lager,None
+baja,ambar,alto,*,alta,ale,None
+baja,ambar,alto,*,alta,*,None
+baja,ambar,alto,*,*,lager,None
+baja,ambar,alto,*,*,ale,None
+baja,ambar,alto,*,*,*,None
+baja,ambar,*,viejo mundo,baja,lager,None
+baja,ambar,*,viejo mundo,baja,ale,None
+baja,ambar,*,viejo mundo,baja,*,None
+baja,ambar,*,viejo mundo,media,lager,None
+baja,ambar,*,viejo mundo,media,ale,None
+baja,ambar,*,viejo mundo,media,*,None
+baja,ambar,*,viejo mundo,alta,lager,None
+baja,ambar,*,viejo mundo,alta,ale,None
+baja,ambar,*,viejo mundo,alta,*,None
+baja,ambar,*,viejo mundo,*,lager,None
+baja,ambar,*,viejo mundo,*,ale,None
+baja,ambar,*,viejo mundo,*,*,None
+baja,ambar,*,nuevo mundo,baja,lager,None
+baja,ambar,*,nuevo mundo,baja,ale,None
+baja,ambar,*,nuevo mundo,baja,*,None
+baja,ambar,*,nuevo mundo,media,lager,None
+baja,ambar,*,nuevo mundo,media,ale,None
+baja,ambar,*,nuevo mundo,media,*,None
+baja,ambar,*,nuevo mundo,alta,lager,None
+baja,ambar,*,nuevo mundo,alta,ale,None
+baja,ambar,*,nuevo mundo,alta,*,None
+baja,ambar,*,nuevo mundo,*,lager,None
+baja,ambar,*,nuevo mundo,*,ale,None
+baja,ambar,*,nuevo mundo,*,*,None
+baja,ambar,*,*,baja,lager,None
+baja,ambar,*,*,baja,ale,None
+baja,ambar,*,*,baja,*,None
+baja,ambar,*,*,media,lager,None
+baja,ambar,*,*,media,ale,None
+baja,ambar,*,*,media,*,None
+baja,ambar,*,*,alta,lager,None
+baja,ambar,*,*,alta,ale,None
+baja,ambar,*,*,alta,*,None
+baja,ambar,*,*,*,lager,None
+baja,ambar,*,*,*,ale,None
+baja,ambar,*,*,*,*,None
+baja,oscuro,bajo,viejo mundo,baja,lager,None
+baja,oscuro,bajo,viejo mundo,baja,ale,None
+baja,oscuro,bajo,viejo mundo,baja,*,None
+baja,oscuro,bajo,viejo mundo,media,lager,None
+baja,oscuro,bajo,viejo mundo,media,ale,None
+baja,oscuro,bajo,viejo mundo,media,*,None
+baja,oscuro,bajo,viejo mundo,alta,lager,None
+baja,oscuro,bajo,viejo mundo,alta,ale,None
+baja,oscuro,bajo,viejo mundo,alta,*,None
+baja,oscuro,bajo,viejo mundo,*,lager,None
+baja,oscuro,bajo,viejo mundo,*,ale,None
+baja,oscuro,bajo,viejo mundo,*,*,None
+baja,oscuro,bajo,nuevo mundo,baja,lager,None
+baja,oscuro,bajo,nuevo mundo,baja,ale,None
+baja,oscuro,bajo,nuevo mundo,baja,*,None
+baja,oscuro,bajo,nuevo mundo,media,lager,None
+baja,oscuro,bajo,nuevo mundo,media,ale,None
+baja,oscuro,bajo,nuevo mundo,media,*,None
+baja,oscuro,bajo,nuevo mundo,alta,lager,None
+baja,oscuro,bajo,nuevo mundo,alta,ale,None
+baja,oscuro,bajo,nuevo mundo,alta,*,None
+baja,oscuro,bajo,nuevo mundo,*,lager,None
+baja,oscuro,bajo,nuevo mundo,*,ale,None
+baja,oscuro,bajo,nuevo mundo,*,*,None
+baja,oscuro,bajo,*,baja,lager,None
+baja,oscuro,bajo,*,baja,ale,None
+baja,oscuro,bajo,*,baja,*,None
+baja,oscuro,bajo,*,media,lager,None
+baja,oscuro,bajo,*,media,ale,None
+baja,oscuro,bajo,*,media,*,None
+baja,oscuro,bajo,*,alta,lager,None
+baja,oscuro,bajo,*,alta,ale,None
+baja,oscuro,bajo,*,alta,*,None
+baja,oscuro,bajo,*,*,lager,None
+baja,oscuro,bajo,*,*,ale,None
+baja,oscuro,bajo,*,*,*,None
+baja,oscuro,medio,viejo mundo,baja,lager,None
+baja,oscuro,medio,viejo mundo,baja,ale,None
+baja,oscuro,medio,viejo mundo,baja,*,None
+baja,oscuro,medio,viejo mundo,media,lager,None
+baja,oscuro,medio,viejo mundo,media,ale,None
+baja,oscuro,medio,viejo mundo,media,*,None
+baja,oscuro,medio,viejo mundo,alta,lager,None
+baja,oscuro,medio,viejo mundo,alta,ale,None
+baja,oscuro,medio,viejo mundo,alta,*,None
+baja,oscuro,medio,viejo mundo,*,lager,None
+baja,oscuro,medio,viejo mundo,*,ale,None
+baja,oscuro,medio,viejo mundo,*,*,None
+baja,oscuro,medio,nuevo mundo,baja,lager,None
+baja,oscuro,medio,nuevo mundo,baja,ale,None
+baja,oscuro,medio,nuevo mundo,baja,*,None
+baja,oscuro,medio,nuevo mundo,media,lager,None
+baja,oscuro,medio,nuevo mundo,media,ale,None
+baja,oscuro,medio,nuevo mundo,media,*,None
+baja,oscuro,medio,nuevo mundo,alta,lager,None
+baja,oscuro,medio,nuevo mundo,alta,ale,None
+baja,oscuro,medio,nuevo mundo,alta,*,None
+baja,oscuro,medio,nuevo mundo,*,lager,None
+baja,oscuro,medio,nuevo mundo,*,ale,None
+baja,oscuro,medio,nuevo mundo,*,*,None
+baja,oscuro,medio,*,baja,lager,None
+baja,oscuro,medio,*,baja,ale,None
+baja,oscuro,medio,*,baja,*,None
+baja,oscuro,medio,*,media,lager,None
+baja,oscuro,medio,*,media,ale,None
+baja,oscuro,medio,*,media,*,None
+baja,oscuro,medio,*,alta,lager,None
+baja,oscuro,medio,*,alta,ale,None
+baja,oscuro,medio,*,alta,*,None
+baja,oscuro,medio,*,*,lager,None
+baja,oscuro,medio,*,*,ale,None
+baja,oscuro,medio,*,*,*,None
+baja,oscuro,alto,viejo mundo,baja,lager,None
+baja,oscuro,alto,viejo mundo,baja,ale,None
+baja,oscuro,alto,viejo mundo,baja,*,None
+baja,oscuro,alto,viejo mundo,media,lager,None
+baja,oscuro,alto,viejo mundo,media,ale,None
+baja,oscuro,alto,viejo mundo,media,*,None
+baja,oscuro,alto,viejo mundo,alta,lager,None
+baja,oscuro,alto,viejo mundo,alta,ale,None
+baja,oscuro,alto,viejo mundo,alta,*,None
+baja,oscuro,alto,viejo mundo,*,lager,None
+baja,oscuro,alto,viejo mundo,*,ale,None
+baja,oscuro,alto,viejo mundo,*,*,None
+baja,oscuro,alto,nuevo mundo,baja,lager,None
+baja,oscuro,alto,nuevo mundo,baja,ale,None
+baja,oscuro,alto,nuevo mundo,baja,*,None
+baja,oscuro,alto,nuevo mundo,media,lager,None
+baja,oscuro,alto,nuevo mundo,media,ale,None
+baja,oscuro,alto,nuevo mundo,media,*,None
+baja,oscuro,alto,nuevo mundo,alta,lager,None
+baja,oscuro,alto,nuevo mundo,alta,ale,None
+baja,oscuro,alto,nuevo mundo,alta,*,None
+baja,oscuro,alto,nuevo mundo,*,lager,None
+baja,oscuro,alto,nuevo mundo,*,ale,None
+baja,oscuro,alto,nuevo mundo,*,*,None
+baja,oscuro,alto,*,baja,lager,None
+baja,oscuro,alto,*,baja,ale,None
+baja,oscuro,alto,*,baja,*,None
+baja,oscuro,alto,*,media,lager,None
+baja,oscuro,alto,*,media,ale,None
+baja,oscuro,alto,*,media,*,None
+baja,oscuro,alto,*,alta,lager,None
+baja,oscuro,alto,*,alta,ale,None
+baja,oscuro,alto,*,alta,*,None
+baja,oscuro,alto,*,*,lager,None
+baja,oscuro,alto,*,*,ale,None
+baja,oscuro,alto,*,*,*,None
+baja,oscuro,*,viejo mundo,baja,lager,None
+baja,oscuro,*,viejo mundo,baja,ale,None
+baja,oscuro,*,viejo mundo,baja,*,None
+baja,oscuro,*,viejo mundo,media,lager,None
+baja,oscuro,*,viejo mundo,media,ale,None
+baja,oscuro,*,viejo mundo,media,*,None
+baja,oscuro,*,viejo mundo,alta,lager,None
+baja,oscuro,*,viejo mundo,alta,ale,None
+baja,oscuro,*,viejo mundo,alta,*,None
+baja,oscuro,*,viejo mundo,*,lager,None
+baja,oscuro,*,viejo mundo,*,ale,None
+baja,oscuro,*,viejo mundo,*,*,None
+baja,oscuro,*,nuevo mundo,baja,lager,None
+baja,oscuro,*,nuevo mundo,baja,ale,None
+baja,oscuro,*,nuevo mundo,baja,*,None
+baja,oscuro,*,nuevo mundo,media,lager,None
+baja,oscuro,*,nuevo mundo,media,ale,None
+baja,oscuro,*,nuevo mundo,media,*,None
+baja,oscuro,*,nuevo mundo,alta,lager,None
+baja,oscuro,*,nuevo mundo,alta,ale,None
+baja,oscuro,*,nuevo mundo,alta,*,None
+baja,oscuro,*,nuevo mundo,*,lager,None
+baja,oscuro,*,nuevo mundo,*,ale,None
+baja,oscuro,*,nuevo mundo,*,*,None
+baja,oscuro,*,*,baja,lager,None
+baja,oscuro,*,*,baja,ale,None
+baja,oscuro,*,*,baja,*,None
+baja,oscuro,*,*,media,lager,None
+baja,oscuro,*,*,media,ale,None
+baja,oscuro,*,*,media,*,None
+baja,oscuro,*,*,alta,lager,None
+baja,oscuro,*,*,alta,ale,None
+baja,oscuro,*,*,alta,*,None
+baja,oscuro,*,*,*,lager,None
+baja,oscuro,*,*,*,ale,None
+baja,oscuro,*,*,*,*,None
+baja,*,bajo,viejo mundo,baja,lager,None
+baja,*,bajo,viejo mundo,baja,ale,None
+baja,*,bajo,viejo mundo,baja,*,None
+baja,*,bajo,viejo mundo,media,lager,None
+baja,*,bajo,viejo mundo,media,ale,None
+baja,*,bajo,viejo mundo,media,*,None
+baja,*,bajo,viejo mundo,alta,lager,None
+baja,*,bajo,viejo mundo,alta,ale,None
+baja,*,bajo,viejo mundo,alta,*,None
+baja,*,bajo,viejo mundo,*,lager,None
+baja,*,bajo,viejo mundo,*,ale,None
+baja,*,bajo,viejo mundo,*,*,None
+baja,*,bajo,nuevo mundo,baja,lager,None
+baja,*,bajo,nuevo mundo,baja,ale,None
+baja,*,bajo,nuevo mundo,baja,*,None
+baja,*,bajo,nuevo mundo,media,lager,None
+baja,*,bajo,nuevo mundo,media,ale,Cream Ale
+baja,*,bajo,nuevo mundo,media,*,Cream Ale
+baja,*,bajo,nuevo mundo,alta,lager,None
+baja,*,bajo,nuevo mundo,alta,ale,None
+baja,*,bajo,nuevo mundo,alta,*,None
+baja,*,bajo,nuevo mundo,*,lager,None
+baja,*,bajo,nuevo mundo,*,ale,Cream Ale
+baja,*,bajo,nuevo mundo,*,*,Cream Ale
+baja,*,bajo,*,baja,lager,None
+baja,*,bajo,*,baja,ale,None
+baja,*,bajo,*,baja,*,None
+baja,*,bajo,*,media,lager,None
+baja,*,bajo,*,media,ale,Cream Ale
+baja,*,bajo,*,media,*,Cream Ale
+baja,*,bajo,*,alta,lager,None
+baja,*,bajo,*,alta,ale,None
+baja,*,bajo,*,alta,*,None
+baja,*,bajo,*,*,lager,None
+baja,*,bajo,*,*,ale,Cream Ale
+baja,*,bajo,*,*,*,Cream Ale
+baja,*,medio,viejo mundo,baja,lager,None
+baja,*,medio,viejo mundo,baja,ale,None
+baja,*,medio,viejo mundo,baja,*,None
+baja,*,medio,viejo mundo,media,lager,None
+baja,*,medio,viejo mundo,media,ale,None
+baja,*,medio,viejo mundo,media,*,None
+baja,*,medio,viejo mundo,alta,lager,None
+baja,*,medio,viejo mundo,alta,ale,None
+baja,*,medio,viejo mundo,alta,*,None
+baja,*,medio,viejo mundo,*,lager,None
+baja,*,medio,viejo mundo,*,ale,None
+baja,*,medio,viejo mundo,*,*,None
+baja,*,medio,nuevo mundo,baja,lager,None
+baja,*,medio,nuevo mundo,baja,ale,None
+baja,*,medio,nuevo mundo,baja,*,None
+baja,*,medio,nuevo mundo,media,lager,None
+baja,*,medio,nuevo mundo,media,ale,Cream Ale
+baja,*,medio,nuevo mundo,media,*,Cream Ale
+baja,*,medio,nuevo mundo,alta,lager,None
+baja,*,medio,nuevo mundo,alta,ale,None
+baja,*,medio,nuevo mundo,alta,*,None
+baja,*,medio,nuevo mundo,*,lager,None
+baja,*,medio,nuevo mundo,*,ale,Cream Ale
+baja,*,medio,nuevo mundo,*,*,Cream Ale
+baja,*,medio,*,baja,lager,None
+baja,*,medio,*,baja,ale,None
+baja,*,medio,*,baja,*,None
+baja,*,medio,*,media,lager,None
+baja,*,medio,*,media,ale,Cream Ale
+baja,*,medio,*,media,*,Cream Ale
+baja,*,medio,*,alta,lager,None
+baja,*,medio,*,alta,ale,None
+baja,*,medio,*,alta,*,None
+baja,*,medio,*,*,lager,None
+baja,*,medio,*,*,ale,Cream Ale
+baja,*,medio,*,*,*,Cream Ale
+baja,*,alto,viejo mundo,baja,lager,None
+baja,*,alto,viejo mundo,baja,ale,None
+baja,*,alto,viejo mundo,baja,*,None
+baja,*,alto,viejo mundo,media,lager,None
+baja,*,alto,viejo mundo,media,ale,None
+baja,*,alto,viejo mundo,media,*,None
+baja,*,alto,viejo mundo,alta,lager,None
+baja,*,alto,viejo mundo,alta,ale,None
+baja,*,alto,viejo mundo,alta,*,None
+baja,*,alto,viejo mundo,*,lager,None
+baja,*,alto,viejo mundo,*,ale,None
+baja,*,alto,viejo mundo,*,*,None
+baja,*,alto,nuevo mundo,baja,lager,None
+baja,*,alto,nuevo mundo,baja,ale,None
+baja,*,alto,nuevo mundo,baja,*,None
+baja,*,alto,nuevo mundo,media,lager,None
+baja,*,alto,nuevo mundo,media,ale,None
+baja,*,alto,nuevo mundo,media,*,None
+baja,*,alto,nuevo mundo,alta,lager,None
+baja,*,alto,nuevo mundo,alta,ale,None
+baja,*,alto,nuevo mundo,alta,*,None
+baja,*,alto,nuevo mundo,*,lager,None
+baja,*,alto,nuevo mundo,*,ale,None
+baja,*,alto,nuevo mundo,*,*,None
+baja,*,alto,*,baja,lager,None
+baja,*,alto,*,baja,ale,None
+baja,*,alto,*,baja,*,None
+baja,*,alto,*,media,lager,None
+baja,*,alto,*,media,ale,None
+baja,*,alto,*,media,*,None
+baja,*,alto,*,alta,lager,None
+baja,*,alto,*,alta,ale,None
+baja,*,alto,*,alta,*,None
+baja,*,alto,*,*,lager,None
+baja,*,alto,*,*,ale,None
+baja,*,alto,*,*,*,None
+baja,*,*,viejo mundo,baja,lager,None
+baja,*,*,viejo mundo,baja,ale,None
+baja,*,*,viejo mundo,baja,*,None
+baja,*,*,viejo mundo,media,lager,None
+baja,*,*,viejo mundo,media,ale,None
+baja,*,*,viejo mundo,media,*,None
+baja,*,*,viejo mundo,alta,lager,None
+baja,*,*,viejo mundo,alta,ale,None
+baja,*,*,viejo mundo,alta,*,None
+baja,*,*,viejo mundo,*,lager,None
+baja,*,*,viejo mundo,*,ale,None
+baja,*,*,viejo mundo,*,*,None
+baja,*,*,nuevo mundo,baja,lager,None
+baja,*,*,nuevo mundo,baja,ale,None
+baja,*,*,nuevo mundo,baja,*,None
+baja,*,*,nuevo mundo,media,lager,None
+baja,*,*,nuevo mundo,media,ale,Cream Ale
+baja,*,*,nuevo mundo,media,*,Cream Ale
+baja,*,*,nuevo mundo,alta,lager,None
+baja,*,*,nuevo mundo,alta,ale,None
+baja,*,*,nuevo mundo,alta,*,None
+baja,*,*,nuevo mundo,*,lager,None
+baja,*,*,nuevo mundo,*,ale,Cream Ale
+baja,*,*,nuevo mundo,*,*,Cream Ale
+baja,*,*,*,baja,lager,None
+baja,*,*,*,baja,ale,None
+baja,*,*,*,baja,*,None
+baja,*,*,*,media,lager,None
+baja,*,*,*,media,ale,Cream Ale
+baja,*,*,*,media,*,Cream Ale
+baja,*,*,*,alta,lager,None
+baja,*,*,*,alta,ale,None
+baja,*,*,*,alta,*,None
+baja,*,*,*,*,lager,None
+baja,*,*,*,*,ale,Cream Ale
+baja,*,*,*,*,*,Cream Ale
+media,palido,bajo,viejo mundo,baja,lager,None
+media,palido,bajo,viejo mundo,baja,ale,None
+media,palido,bajo,viejo mundo,baja,*,None
+media,palido,bajo,viejo mundo,media,lager,None
+media,palido,bajo,viejo mundo,media,ale,None
+media,palido,bajo,viejo mundo,media,*,None
+media,palido,bajo,viejo mundo,alta,lager,None
+media,palido,bajo,viejo mundo,alta,ale,Kolsch
+media,palido,bajo,viejo mundo,alta,*,Kolsch
+media,palido,bajo,viejo mundo,*,lager,None
+media,palido,bajo,viejo mundo,*,ale,Kolsch
+media,palido,bajo,viejo mundo,*,*,Kolsch
+media,palido,bajo,nuevo mundo,baja,lager,None
+media,palido,bajo,nuevo mundo,baja,ale,None
+media,palido,bajo,nuevo mundo,baja,*,None
+media,palido,bajo,nuevo mundo,media,lager,None
+media,palido,bajo,nuevo mundo,media,ale,Cream Ale
+media,palido,bajo,nuevo mundo,media,*,Cream Ale
+media,palido,bajo,nuevo mundo,alta,lager,None
+media,palido,bajo,nuevo mundo,alta,ale,None
+media,palido,bajo,nuevo mundo,alta,*,None
+media,palido,bajo,nuevo mundo,*,lager,None
+media,palido,bajo,nuevo mundo,*,ale,Cream Ale
+media,palido,bajo,nuevo mundo,*,*,Cream Ale
+media,palido,bajo,*,baja,lager,None
+media,palido,bajo,*,baja,ale,None
+media,palido,bajo,*,baja,*,None
+media,palido,bajo,*,media,lager,None
+media,palido,bajo,*,media,ale,Cream Ale
+media,palido,bajo,*,media,*,Cream Ale
+media,palido,bajo,*,alta,lager,None
+media,palido,bajo,*,alta,ale,Kolsch
+media,palido,bajo,*,alta,*,Kolsch
+media,palido,bajo,*,*,lager,None
+media,palido,bajo,*,*,ale,None
+media,palido,bajo,*,*,*,None
+media,palido,medio,viejo mundo,baja,lager,None
+media,palido,medio,viejo mundo,baja,ale,None
+media,palido,medio,viejo mundo,baja,*,None
+media,palido,medio,viejo mundo,media,lager,None
+media,palido,medio,viejo mundo,media,ale,None
+media,palido,medio,viejo mundo,media,*,None
+media,palido,medio,viejo mundo,alta,lager,None
+media,palido,medio,viejo mundo,alta,ale,Kolsch
+media,palido,medio,viejo mundo,alta,*,Kolsch
+media,palido,medio,viejo mundo,*,lager,None
+media,palido,medio,viejo mundo,*,ale,Kolsch
+media,palido,medio,viejo mundo,*,*,Kolsch
+media,palido,medio,nuevo mundo,baja,lager,None
+media,palido,medio,nuevo mundo,baja,ale,None
+media,palido,medio,nuevo mundo,baja,*,None
+media,palido,medio,nuevo mundo,media,lager,None
+media,palido,medio,nuevo mundo,media,ale,Cream Ale
+media,palido,medio,nuevo mundo,media,*,Cream Ale
+media,palido,medio,nuevo mundo,alta,lager,None
+media,palido,medio,nuevo mundo,alta,ale,None
+media,palido,medio,nuevo mundo,alta,*,None
+media,palido,medio,nuevo mundo,*,lager,None
+media,palido,medio,nuevo mundo,*,ale,Cream Ale
+media,palido,medio,nuevo mundo,*,*,Cream Ale
+media,palido,medio,*,baja,lager,None
+media,palido,medio,*,baja,ale,None
+media,palido,medio,*,baja,*,None
+media,palido,medio,*,media,lager,None
+media,palido,medio,*,media,ale,Cream Ale
+media,palido,medio,*,media,*,Cream Ale
+media,palido,medio,*,alta,lager,None
+media,palido,medio,*,alta,ale,Kolsch
+media,palido,medio,*,alta,*,Kolsch
+media,palido,medio,*,*,lager,None
+media,palido,medio,*,*,ale,None
+media,palido,medio,*,*,*,None
+media,palido,alto,viejo mundo,baja,lager,None
+media,palido,alto,viejo mundo,baja,ale,None
+media,palido,alto,viejo mundo,baja,*,None
+media,palido,alto,viejo mundo,media,lager,None
+media,palido,alto,viejo mundo,media,ale,None
+media,palido,alto,viejo mundo,media,*,None
+media,palido,alto,viejo mundo,alta,lager,None
+media,palido,alto,viejo mundo,alta,ale,None
+media,palido,alto,viejo mundo,alta,*,None
+media,palido,alto,viejo mundo,*,lager,None
+media,palido,alto,viejo mundo,*,ale,None
+media,palido,alto,viejo mundo,*,*,None
+media,palido,alto,nuevo mundo,baja,lager,None
+media,palido,alto,nuevo mundo,baja,ale,None
+media,palido,alto,nuevo mundo,baja,*,None
+media,palido,alto,nuevo mundo,media,lager,None
+media,palido,alto,nuevo mundo,media,ale,None
+media,palido,alto,nuevo mundo,media,*,None
+media,palido,alto,nuevo mundo,alta,lager,None
+media,palido,alto,nuevo mundo,alta,ale,None
+media,palido,alto,nuevo mundo,alta,*,None
+media,palido,alto,nuevo mundo,*,lager,None
+media,palido,alto,nuevo mundo,*,ale,None
+media,palido,alto,nuevo mundo,*,*,None
+media,palido,alto,*,baja,lager,None
+media,palido,alto,*,baja,ale,None
+media,palido,alto,*,baja,*,None
+media,palido,alto,*,media,lager,None
+media,palido,alto,*,media,ale,None
+media,palido,alto,*,media,*,None
+media,palido,alto,*,alta,lager,None
+media,palido,alto,*,alta,ale,None
+media,palido,alto,*,alta,*,None
+media,palido,alto,*,*,lager,None
+media,palido,alto,*,*,ale,None
+media,palido,alto,*,*,*,None
+media,palido,*,viejo mundo,baja,lager,None
+media,palido,*,viejo mundo,baja,ale,None
+media,palido,*,viejo mundo,baja,*,None
+media,palido,*,viejo mundo,media,lager,None
+media,palido,*,viejo mundo,media,ale,None
+media,palido,*,viejo mundo,media,*,None
+media,palido,*,viejo mundo,alta,lager,None
+media,palido,*,viejo mundo,alta,ale,Kolsch
+media,palido,*,viejo mundo,alta,*,Kolsch
+media,palido,*,viejo mundo,*,lager,None
+media,palido,*,viejo mundo,*,ale,Kolsch
+media,palido,*,viejo mundo,*,*,Kolsch
+media,palido,*,nuevo mundo,baja,lager,None
+media,palido,*,nuevo mundo,baja,ale,None
+media,palido,*,nuevo mundo,baja,*,None
+media,palido,*,nuevo mundo,media,lager,None
+media,palido,*,nuevo mundo,media,ale,Cream Ale
+media,palido,*,nuevo mundo,media,*,Cream Ale
+media,palido,*,nuevo mundo,alta,lager,None
+media,palido,*,nuevo mundo,alta,ale,None
+media,palido,*,nuevo mundo,alta,*,None
+media,palido,*,nuevo mundo,*,lager,None
+media,palido,*,nuevo mundo,*,ale,Cream Ale
+media,palido,*,nuevo mundo,*,*,Cream Ale
+media,palido,*,*,baja,lager,None
+media,palido,*,*,baja,ale,None
+media,palido,*,*,baja,*,None
+media,palido,*,*,media,lager,None
+media,palido,*,*,media,ale,Cream Ale
+media,palido,*,*,media,*,Cream Ale
+media,palido,*,*,alta,lager,None
+media,palido,*,*,alta,ale,Kolsch
+media,palido,*,*,alta,*,Kolsch
+media,palido,*,*,*,lager,None
+media,palido,*,*,*,ale,None
+media,palido,*,*,*,*,None
+media,ambar,bajo,viejo mundo,baja,lager,Lager Ambar Checa
+media,ambar,bajo,viejo mundo,baja,ale,None
+media,ambar,bajo,viejo mundo,baja,*,Lager Ambar Checa
+media,ambar,bajo,viejo mundo,media,lager,None
+media,ambar,bajo,viejo mundo,media,ale,None
+media,ambar,bajo,viejo mundo,media,*,None
+media,ambar,bajo,viejo mundo,alta,lager,None
+media,ambar,bajo,viejo mundo,alta,ale,None
+media,ambar,bajo,viejo mundo,alta,*,None
+media,ambar,bajo,viejo mundo,*,lager,Lager Ambar Checa
+media,ambar,bajo,viejo mundo,*,ale,None
+media,ambar,bajo,viejo mundo,*,*,Lager Ambar Checa
+media,ambar,bajo,nuevo mundo,baja,lager,None
+media,ambar,bajo,nuevo mundo,baja,ale,None
+media,ambar,bajo,nuevo mundo,baja,*,None
+media,ambar,bajo,nuevo mundo,media,lager,None
+media,ambar,bajo,nuevo mundo,media,ale,None
+media,ambar,bajo,nuevo mundo,media,*,None
+media,ambar,bajo,nuevo mundo,alta,lager,None
+media,ambar,bajo,nuevo mundo,alta,ale,None
+media,ambar,bajo,nuevo mundo,alta,*,None
+media,ambar,bajo,nuevo mundo,*,lager,None
+media,ambar,bajo,nuevo mundo,*,ale,None
+media,ambar,bajo,nuevo mundo,*,*,None
+media,ambar,bajo,*,baja,lager,Lager Ambar Checa
+media,ambar,bajo,*,baja,ale,None
+media,ambar,bajo,*,baja,*,Lager Ambar Checa
+media,ambar,bajo,*,media,lager,None
+media,ambar,bajo,*,media,ale,None
+media,ambar,bajo,*,media,*,None
+media,ambar,bajo,*,alta,lager,None
+media,ambar,bajo,*,alta,ale,None
+media,ambar,bajo,*,alta,*,None
+media,ambar,bajo,*,*,lager,Lager Ambar Checa
+media,ambar,bajo,*,*,ale,None
+media,ambar,bajo,*,*,*,Lager Ambar Checa
+media,ambar,medio,viejo mundo,baja,lager,Lager Ambar Checa
+media,ambar,medio,viejo mundo,baja,ale,None
+media,ambar,medio,viejo mundo,baja,*,Lager Ambar Checa
+media,ambar,medio,viejo mundo,media,lager,None
+media,ambar,medio,viejo mundo,media,ale,None
+media,ambar,medio,viejo mundo,media,*,None
+media,ambar,medio,viejo mundo,alta,lager,None
+media,ambar,medio,viejo mundo,alta,ale,None
+media,ambar,medio,viejo mundo,alta,*,None
+media,ambar,medio,viejo mundo,*,lager,Lager Ambar Checa
+media,ambar,medio,viejo mundo,*,ale,None
+media,ambar,medio,viejo mundo,*,*,Lager Ambar Checa
+media,ambar,medio,nuevo mundo,baja,lager,None
+media,ambar,medio,nuevo mundo,baja,ale,None
+media,ambar,medio,nuevo mundo,baja,*,None
+media,ambar,medio,nuevo mundo,media,lager,None
+media,ambar,medio,nuevo mundo,media,ale,None
+media,ambar,medio,nuevo mundo,media,*,None
+media,ambar,medio,nuevo mundo,alta,lager,None
+media,ambar,medio,nuevo mundo,alta,ale,None
+media,ambar,medio,nuevo mundo,alta,*,None
+media,ambar,medio,nuevo mundo,*,lager,None
+media,ambar,medio,nuevo mundo,*,ale,None
+media,ambar,medio,nuevo mundo,*,*,None
+media,ambar,medio,*,baja,lager,Lager Ambar Checa
+media,ambar,medio,*,baja,ale,None
+media,ambar,medio,*,baja,*,Lager Ambar Checa
+media,ambar,medio,*,media,lager,None
+media,ambar,medio,*,media,ale,None
+media,ambar,medio,*,media,*,None
+media,ambar,medio,*,alta,lager,None
+media,ambar,medio,*,alta,ale,None
+media,ambar,medio,*,alta,*,None
+media,ambar,medio,*,*,lager,Lager Ambar Checa
+media,ambar,medio,*,*,ale,None
+media,ambar,medio,*,*,*,Lager Ambar Checa
+media,ambar,alto,viejo mundo,baja,lager,None
+media,ambar,alto,viejo mundo,baja,ale,None
+media,ambar,alto,viejo mundo,baja,*,None
+media,ambar,alto,viejo mundo,media,lager,None
+media,ambar,alto,viejo mundo,media,ale,None
+media,ambar,alto,viejo mundo,media,*,None
+media,ambar,alto,viejo mundo,alta,lager,None
+media,ambar,alto,viejo mundo,alta,ale,None
+media,ambar,alto,viejo mundo,alta,*,None
+media,ambar,alto,viejo mundo,*,lager,None
+media,ambar,alto,viejo mundo,*,ale,None
+media,ambar,alto,viejo mundo,*,*,None
+media,ambar,alto,nuevo mundo,baja,lager,None
+media,ambar,alto,nuevo mundo,baja,ale,None
+media,ambar,alto,nuevo mundo,baja,*,None
+media,ambar,alto,nuevo mundo,media,lager,None
+media,ambar,alto,nuevo mundo,media,ale,None
+media,ambar,alto,nuevo mundo,media,*,None
+media,ambar,alto,nuevo mundo,alta,lager,None
+media,ambar,alto,nuevo mundo,alta,ale,None
+media,ambar,alto,nuevo mundo,alta,*,None
+media,ambar,alto,nuevo mundo,*,lager,None
+media,ambar,alto,nuevo mundo,*,ale,None
+media,ambar,alto,nuevo mundo,*,*,None
+media,ambar,alto,*,baja,lager,None
+media,ambar,alto,*,baja,ale,None
+media,ambar,alto,*,baja,*,None
+media,ambar,alto,*,media,lager,None
+media,ambar,alto,*,media,ale,None
+media,ambar,alto,*,media,*,None
+media,ambar,alto,*,alta,lager,None
+media,ambar,alto,*,alta,ale,None
+media,ambar,alto,*,alta,*,None
+media,ambar,alto,*,*,lager,None
+media,ambar,alto,*,*,ale,None
+media,ambar,alto,*,*,*,None
+media,ambar,*,viejo mundo,baja,lager,Lager Ambar Checa
+media,ambar,*,viejo mundo,baja,ale,None
+media,ambar,*,viejo mundo,baja,*,Lager Ambar Checa
+media,ambar,*,viejo mundo,media,lager,None
+media,ambar,*,viejo mundo,media,ale,None
+media,ambar,*,viejo mundo,media,*,None
+media,ambar,*,viejo mundo,alta,lager,None
+media,ambar,*,viejo mundo,alta,ale,None
+media,ambar,*,viejo mundo,alta,*,None
+media,ambar,*,viejo mundo,*,lager,Lager Ambar Checa
+media,ambar,*,viejo mundo,*,ale,None
+media,ambar,*,viejo mundo,*,*,Lager Ambar Checa
+media,ambar,*,nuevo mundo,baja,lager,None
+media,ambar,*,nuevo mundo,baja,ale,None
+media,ambar,*,nuevo mundo,baja,*,None
+media,ambar,*,nuevo mundo,media,lager,None
+media,ambar,*,nuevo mundo,media,ale,None
+media,ambar,*,nuevo mundo,media,*,None
+media,ambar,*,nuevo mundo,alta,lager,None
+media,ambar,*,nuevo mundo,alta,ale,None
+media,ambar,*,nuevo mundo,alta,*,None
+media,ambar,*,nuevo mundo,*,lager,None
+media,ambar,*,nuevo mundo,*,ale,None
+media,ambar,*,nuevo mundo,*,*,None
+media,ambar,*,*,baja,lager,Lager Ambar Checa
+media,ambar,*,*,baja,ale,None
+media,ambar,*,*,baja,*,Lager Ambar Checa
+media,ambar,*,*,media,lager,None
+media,ambar,*,*,media,ale,None
+media,ambar,*,*,media,*,None
+media,ambar,*,*,alta,lager,None
+media,ambar,*,*,alta,ale,None
+media,ambar,*,*,alta,*,None
+media,ambar,*,*,*,lager,Lager Ambar Checa
+media,ambar,*,*,*,ale,None
+media,ambar,*,*,*,*,Lager Ambar Checa
+media,oscuro,bajo,viejo mundo,baja,lager,Lager Ambar Checa
+media,oscuro,bajo,viejo mundo,baja,ale,None
+media,oscuro,bajo,viejo mundo,baja,*,Lager Ambar Checa
+media,oscuro,bajo,viejo mundo,media,lager,None
+media,oscuro,bajo,viejo mundo,media,ale,None
+media,oscuro,bajo,viejo mundo,media,*,None
+media,oscuro,bajo,viejo mundo,alta,lager,None
+media,oscuro,bajo,viejo mundo,alta,ale,None
+media,oscuro,bajo,viejo mundo,alta,*,None
+media,oscuro,bajo,viejo mundo,*,lager,Lager Ambar Checa
+media,oscuro,bajo,viejo mundo,*,ale,None
+media,oscuro,bajo,viejo mundo,*,*,Lager Ambar Checa
+media,oscuro,bajo,nuevo mundo,baja,lager,None
+media,oscuro,bajo,nuevo mundo,baja,ale,None
+media,oscuro,bajo,nuevo mundo,baja,*,None
+media,oscuro,bajo,nuevo mundo,media,lager,None
+media,oscuro,bajo,nuevo mundo,media,ale,None
+media,oscuro,bajo,nuevo mundo,media,*,None
+media,oscuro,bajo,nuevo mundo,alta,lager,None
+media,oscuro,bajo,nuevo mundo,alta,ale,None
+media,oscuro,bajo,nuevo mundo,alta,*,None
+media,oscuro,bajo,nuevo mundo,*,lager,None
+media,oscuro,bajo,nuevo mundo,*,ale,None
+media,oscuro,bajo,nuevo mundo,*,*,None
+media,oscuro,bajo,*,baja,lager,Lager Ambar Checa
+media,oscuro,bajo,*,baja,ale,None
+media,oscuro,bajo,*,baja,*,Lager Ambar Checa
+media,oscuro,bajo,*,media,lager,None
+media,oscuro,bajo,*,media,ale,None
+media,oscuro,bajo,*,media,*,None
+media,oscuro,bajo,*,alta,lager,None
+media,oscuro,bajo,*,alta,ale,None
+media,oscuro,bajo,*,alta,*,None
+media,oscuro,bajo,*,*,lager,Lager Ambar Checa
+media,oscuro,bajo,*,*,ale,None
+media,oscuro,bajo,*,*,*,Lager Ambar Checa
+media,oscuro,medio,viejo mundo,baja,lager,Lager Ambar Checa
+media,oscuro,medio,viejo mundo,baja,ale,None
+media,oscuro,medio,viejo mundo,baja,*,Lager Ambar Checa
+media,oscuro,medio,viejo mundo,media,lager,None
+media,oscuro,medio,viejo mundo,media,ale,None
+media,oscuro,medio,viejo mundo,media,*,None
+media,oscuro,medio,viejo mundo,alta,lager,None
+media,oscuro,medio,viejo mundo,alta,ale,None
+media,oscuro,medio,viejo mundo,alta,*,None
+media,oscuro,medio,viejo mundo,*,lager,Lager Ambar Checa
+media,oscuro,medio,viejo mundo,*,ale,None
+media,oscuro,medio,viejo mundo,*,*,Lager Ambar Checa
+media,oscuro,medio,nuevo mundo,baja,lager,None
+media,oscuro,medio,nuevo mundo,baja,ale,None
+media,oscuro,medio,nuevo mundo,baja,*,None
+media,oscuro,medio,nuevo mundo,media,lager,None
+media,oscuro,medio,nuevo mundo,media,ale,None
+media,oscuro,medio,nuevo mundo,media,*,None
+media,oscuro,medio,nuevo mundo,alta,lager,None
+media,oscuro,medio,nuevo mundo,alta,ale,None
+media,oscuro,medio,nuevo mundo,alta,*,None
+media,oscuro,medio,nuevo mundo,*,lager,None
+media,oscuro,medio,nuevo mundo,*,ale,None
+media,oscuro,medio,nuevo mundo,*,*,None
+media,oscuro,medio,*,baja,lager,Lager Ambar Checa
+media,oscuro,medio,*,baja,ale,None
+media,oscuro,medio,*,baja,*,Lager Ambar Checa
+media,oscuro,medio,*,media,lager,None
+media,oscuro,medio,*,media,ale,None
+media,oscuro,medio,*,media,*,None
+media,oscuro,medio,*,alta,lager,None
+media,oscuro,medio,*,alta,ale,None
+media,oscuro,medio,*,alta,*,None
+media,oscuro,medio,*,*,lager,Lager Ambar Checa
+media,oscuro,medio,*,*,ale,None
+media,oscuro,medio,*,*,*,Lager Ambar Checa
+media,oscuro,alto,viejo mundo,baja,lager,None
+media,oscuro,alto,viejo mundo,baja,ale,None
+media,oscuro,alto,viejo mundo,baja,*,None
+media,oscuro,alto,viejo mundo,media,lager,None
+media,oscuro,alto,viejo mundo,media,ale,None
+media,oscuro,alto,viejo mundo,media,*,None
+media,oscuro,alto,viejo mundo,alta,lager,None
+media,oscuro,alto,viejo mundo,alta,ale,None
+media,oscuro,alto,viejo mundo,alta,*,None
+media,oscuro,alto,viejo mundo,*,lager,None
+media,oscuro,alto,viejo mundo,*,ale,None
+media,oscuro,alto,viejo mundo,*,*,None
+media,oscuro,alto,nuevo mundo,baja,lager,None
+media,oscuro,alto,nuevo mundo,baja,ale,None
+media,oscuro,alto,nuevo mundo,baja,*,None
+media,oscuro,alto,nuevo mundo,media,lager,None
+media,oscuro,alto,nuevo mundo,media,ale,None
+media,oscuro,alto,nuevo mundo,media,*,None
+media,oscuro,alto,nuevo mundo,alta,lager,None
+media,oscuro,alto,nuevo mundo,alta,ale,None
+media,oscuro,alto,nuevo mundo,alta,*,None
+media,oscuro,alto,nuevo mundo,*,lager,None
+media,oscuro,alto,nuevo mundo,*,ale,None
+media,oscuro,alto,nuevo mundo,*,*,None
+media,oscuro,alto,*,baja,lager,None
+media,oscuro,alto,*,baja,ale,None
+media,oscuro,alto,*,baja,*,None
+media,oscuro,alto,*,media,lager,None
+media,oscuro,alto,*,media,ale,None
+media,oscuro,alto,*,media,*,None
+media,oscuro,alto,*,alta,lager,None
+media,oscuro,alto,*,alta,ale,None
+media,oscuro,alto,*,alta,*,None
+media,oscuro,alto,*,*,lager,None
+media,oscuro,alto,*,*,ale,None
+media,oscuro,alto,*,*,*,None
+media,oscuro,*,viejo mundo,baja,lager,Lager Ambar Checa
+media,oscuro,*,viejo mundo,baja,ale,None
+media,oscuro,*,viejo mundo,baja,*,Lager Ambar Checa
+media,oscuro,*,viejo mundo,media,lager,None
+media,oscuro,*,viejo mundo,media,ale,None
+media,oscuro,*,viejo mundo,media,*,None
+media,oscuro,*,viejo mundo,alta,lager,None
+media,oscuro,*,viejo mundo,alta,ale,None
+media,oscuro,*,viejo mundo,alta,*,None
+media,oscuro,*,viejo mundo,*,lager,Lager Ambar Checa
+media,oscuro,*,viejo mundo,*,ale,None
+media,oscuro,*,viejo mundo,*,*,Lager Ambar Checa
+media,oscuro,*,nuevo mundo,baja,lager,None
+media,oscuro,*,nuevo mundo,baja,ale,None
+media,oscuro,*,nuevo mundo,baja,*,None
+media,oscuro,*,nuevo mundo,media,lager,None
+media,oscuro,*,nuevo mundo,media,ale,None
+media,oscuro,*,nuevo mundo,media,*,None
+media,oscuro,*,nuevo mundo,alta,lager,None
+media,oscuro,*,nuevo mundo,alta,ale,None
+media,oscuro,*,nuevo mundo,alta,*,None
+media,oscuro,*,nuevo mundo,*,lager,None
+media,oscuro,*,nuevo mundo,*,ale,None
+media,oscuro,*,nuevo mundo,*,*,None
+media,oscuro,*,*,baja,lager,Lager Ambar Checa
+media,oscuro,*,*,baja,ale,None
+media,oscuro,*,*,baja,*,Lager Ambar Checa
+media,oscuro,*,*,media,lager,None
+media,oscuro,*,*,media,ale,None
+media,oscuro,*,*,media,*,None
+media,oscuro,*,*,alta,lager,None
+media,oscuro,*,*,alta,ale,None
+media,oscuro,*,*,alta,*,None
+media,oscuro,*,*,*,lager,Lager Ambar Checa
+media,oscuro,*,*,*,ale,None
+media,oscuro,*,*,*,*,Lager Ambar Checa
+media,*,bajo,viejo mundo,baja,lager,Lager Ambar Checa
+media,*,bajo,viejo mundo,baja,ale,None
+media,*,bajo,viejo mundo,baja,*,Lager Ambar Checa
+media,*,bajo,viejo mundo,media,lager,None
+media,*,bajo,viejo mundo,media,ale,None
+media,*,bajo,viejo mundo,media,*,None
+media,*,bajo,viejo mundo,alta,lager,None
+media,*,bajo,viejo mundo,alta,ale,Kolsch
+media,*,bajo,viejo mundo,alta,*,Kolsch
+media,*,bajo,viejo mundo,*,lager,Lager Ambar Checa
+media,*,bajo,viejo mundo,*,ale,Kolsch
+media,*,bajo,viejo mundo,*,*,None
+media,*,bajo,nuevo mundo,baja,lager,None
+media,*,bajo,nuevo mundo,baja,ale,None
+media,*,bajo,nuevo mundo,baja,*,None
+media,*,bajo,nuevo mundo,media,lager,None
+media,*,bajo,nuevo mundo,media,ale,Cream Ale
+media,*,bajo,nuevo mundo,media,*,Cream Ale
+media,*,bajo,nuevo mundo,alta,lager,None
+media,*,bajo,nuevo mundo,alta,ale,None
+media,*,bajo,nuevo mundo,alta,*,None
+media,*,bajo,nuevo mundo,*,lager,None
+media,*,bajo,nuevo mundo,*,ale,Cream Ale
+media,*,bajo,nuevo mundo,*,*,Cream Ale
+media,*,bajo,*,baja,lager,Lager Ambar Checa
+media,*,bajo,*,baja,ale,None
+media,*,bajo,*,baja,*,Lager Ambar Checa
+media,*,bajo,*,media,lager,None
+media,*,bajo,*,media,ale,Cream Ale
+media,*,bajo,*,media,*,Cream Ale
+media,*,bajo,*,alta,lager,None
+media,*,bajo,*,alta,ale,Kolsch
+media,*,bajo,*,alta,*,Kolsch
+media,*,bajo,*,*,lager,Lager Ambar Checa
+media,*,bajo,*,*,ale,None
+media,*,medio,viejo mundo,baja,lager,Lager Ambar Checa
+media,*,medio,viejo mundo,baja,ale,None
+media,*,medio,viejo mundo,baja,*,Lager Ambar Checa
+media,*,medio,viejo mundo,media,lager,None
+media,*,medio,viejo mundo,media,ale,None
+media,*,medio,viejo mundo,media,*,None
+media,*,medio,viejo mundo,alta,lager,None
+media,*,medio,viejo mundo,alta,ale,Kolsch
+media,*,medio,viejo mundo,alta,*,Kolsch
+media,*,medio,viejo mundo,*,lager,Lager Ambar Checa
+media,*,medio,viejo mundo,*,ale,Kolsch
+media,*,medio,viejo mundo,*,*,None
+media,*,medio,nuevo mundo,baja,lager,None
+media,*,medio,nuevo mundo,baja,ale,None
+media,*,medio,nuevo mundo,baja,*,None
+media,*,medio,nuevo mundo,media,lager,None
+media,*,medio,nuevo mundo,media,ale,Cream Ale
+media,*,medio,nuevo mundo,media,*,Cream Ale
+media,*,medio,nuevo mundo,alta,lager,None
+media,*,medio,nuevo mundo,alta,ale,None
+media,*,medio,nuevo mundo,alta,*,None
+media,*,medio,nuevo mundo,*,lager,None
+media,*,medio,nuevo mundo,*,ale,Cream Ale
+media,*,medio,nuevo mundo,*,*,Cream Ale
+media,*,medio,*,baja,lager,Lager Ambar Checa
+media,*,medio,*,baja,ale,None
+media,*,medio,*,baja,*,Lager Ambar Checa
+media,*,medio,*,media,lager,None
+media,*,medio,*,media,ale,Cream Ale
+media,*,medio,*,media,*,Cream Ale
+media,*,medio,*,alta,lager,None
+media,*,medio,*,alta,ale,Kolsch
+media,*,medio,*,alta,*,Kolsch
+media,*,medio,*,*,lager,Lager Ambar Checa
+media,*,medio,*,*,ale,None
+media,*,alto,viejo mundo,baja,lager,None
+media,*,alto,viejo mundo,baja,ale,None
+media,*,alto,viejo mundo,baja,*,None
+media,*,alto,viejo mundo,media,lager,None
+media,*,alto,viejo mundo,media,ale,None
+media,*,alto,viejo mundo,media,*,None
+media,*,alto,viejo mundo,alta,lager,None
+media,*,alto,viejo mundo,alta,ale,None
+media,*,alto,viejo mundo,alta,*,None
+media,*,alto,viejo mundo,*,lager,None
+media,*,alto,viejo mundo,*,ale,None
+media,*,alto,viejo mundo,*,*,None
+media,*,alto,nuevo mundo,baja,lager,None
+media,*,alto,nuevo mundo,baja,ale,None
+media,*,alto,nuevo mundo,baja,*,None
+media,*,alto,nuevo mundo,media,lager,None
+media,*,alto,nuevo mundo,media,ale,None
+media,*,alto,nuevo mundo,media,*,None
+media,*,alto,nuevo mundo,alta,lager,None
+media,*,alto,nuevo mundo,alta,ale,None
+media,*,alto,nuevo mundo,alta,*,None
+media,*,alto,nuevo mundo,*,lager,None
+media,*,alto,nuevo mundo,*,ale,None
+media,*,alto,nuevo mundo,*,*,None
+media,*,alto,*,baja,lager,None
+media,*,alto,*,baja,ale,None
+media,*,alto,*,baja,*,None
+media,*,alto,*,media,lager,None
+media,*,alto,*,media,ale,None
+media,*,alto,*,media,*,None
+media,*,alto,*,alta,lager,None
+media,*,alto,*,alta,ale,None
+media,*,alto,*,alta,*,None
+media,*,alto,*,*,lager,None
+media,*,alto,*,*,ale,None
+media,*,alto,*,*,*,None
+media,*,*,viejo mundo,baja,lager,Lager Ambar Checa
+media,*,*,viejo mundo,baja,ale,None
+media,*,*,viejo mundo,baja,*,Lager Ambar Checa
+media,*,*,viejo mundo,media,lager,None
+media,*,*,viejo mundo,media,ale,None
+media,*,*,viejo mundo,media,*,None
+media,*,*,viejo mundo,alta,lager,None
+media,*,*,viejo mundo,alta,ale,Kolsch
+media,*,*,viejo mundo,alta,*,Kolsch
+media,*,*,viejo mundo,*,lager,Lager Ambar Checa
+media,*,*,viejo mundo,*,ale,Kolsch
+media,*,*,viejo mundo,*,*,None
+media,*,*,nuevo mundo,baja,lager,None
+media,*,*,nuevo mundo,baja,ale,None
+media,*,*,nuevo mundo,baja,*,None
+media,*,*,nuevo mundo,media,lager,None
+media,*,*,nuevo mundo,media,ale,Cream Ale
+media,*,*,nuevo mundo,media,*,Cream Ale
+media,*,*,nuevo mundo,alta,lager,None
+media,*,*,nuevo mundo,alta,ale,None
+media,*,*,nuevo mundo,alta,*,None
+media,*,*,nuevo mundo,*,lager,None
+media,*,*,nuevo mundo,*,ale,Cream Ale
+media,*,*,nuevo mundo,*,*,Cream Ale
+media,*,*,*,baja,lager,Lager Ambar Checa
+media,*,*,*,baja,ale,None
+media,*,*,*,baja,*,Lager Ambar Checa
+media,*,*,*,media,lager,None
+media,*,*,*,media,ale,Cream Ale
+media,*,*,*,media,*,Cream Ale
+media,*,*,*,alta,lager,None
+media,*,*,*,alta,ale,Kolsch
+media,*,*,*,alta,*,Kolsch
+media,*,*,*,*,lager,Lager Ambar Checa
+media,*,*,*,*,ale,None
+alta,palido,bajo,viejo mundo,baja,lager,None
+alta,palido,bajo,viejo mundo,baja,ale,None
+alta,palido,bajo,viejo mundo,baja,*,None
+alta,palido,bajo,viejo mundo,media,lager,None
+alta,palido,bajo,viejo mundo,media,ale,None
+alta,palido,bajo,viejo mundo,media,*,None
+alta,palido,bajo,viejo mundo,alta,lager,None
+alta,palido,bajo,viejo mundo,alta,ale,None
+alta,palido,bajo,viejo mundo,alta,*,None
+alta,palido,bajo,viejo mundo,*,lager,None
+alta,palido,bajo,viejo mundo,*,ale,None
+alta,palido,bajo,viejo mundo,*,*,None
+alta,palido,bajo,nuevo mundo,baja,lager,None
+alta,palido,bajo,nuevo mundo,baja,ale,None
+alta,palido,bajo,nuevo mundo,baja,*,None
+alta,palido,bajo,nuevo mundo,media,lager,None
+alta,palido,bajo,nuevo mundo,media,ale,None
+alta,palido,bajo,nuevo mundo,media,*,None
+alta,palido,bajo,nuevo mundo,alta,lager,None
+alta,palido,bajo,nuevo mundo,alta,ale,None
+alta,palido,bajo,nuevo mundo,alta,*,None
+alta,palido,bajo,nuevo mundo,*,lager,None
+alta,palido,bajo,nuevo mundo,*,ale,None
+alta,palido,bajo,nuevo mundo,*,*,None
+alta,palido,bajo,*,baja,lager,None
+alta,palido,bajo,*,baja,ale,None
+alta,palido,bajo,*,baja,*,None
+alta,palido,bajo,*,media,lager,None
+alta,palido,bajo,*,media,ale,None
+alta,palido,bajo,*,media,*,None
+alta,palido,bajo,*,alta,lager,None
+alta,palido,bajo,*,alta,ale,None
+alta,palido,bajo,*,alta,*,None
+alta,palido,bajo,*,*,lager,None
+alta,palido,bajo,*,*,ale,None
+alta,palido,bajo,*,*,*,None
+alta,palido,medio,viejo mundo,baja,lager,None
+alta,palido,medio,viejo mundo,baja,ale,None
+alta,palido,medio,viejo mundo,baja,*,None
+alta,palido,medio,viejo mundo,media,lager,None
+alta,palido,medio,viejo mundo,media,ale,None
+alta,palido,medio,viejo mundo,media,*,None
+alta,palido,medio,viejo mundo,alta,lager,None
+alta,palido,medio,viejo mundo,alta,ale,None
+alta,palido,medio,viejo mundo,alta,*,None
+alta,palido,medio,viejo mundo,*,lager,None
+alta,palido,medio,viejo mundo,*,ale,None
+alta,palido,medio,viejo mundo,*,*,None
+alta,palido,medio,nuevo mundo,baja,lager,None
+alta,palido,medio,nuevo mundo,baja,ale,None
+alta,palido,medio,nuevo mundo,baja,*,None
+alta,palido,medio,nuevo mundo,media,lager,None
+alta,palido,medio,nuevo mundo,media,ale,None
+alta,palido,medio,nuevo mundo,media,*,None
+alta,palido,medio,nuevo mundo,alta,lager,None
+alta,palido,medio,nuevo mundo,alta,ale,Ipa Blanca
+alta,palido,medio,nuevo mundo,alta,*,Ipa Blanca
+alta,palido,medio,nuevo mundo,*,lager,None
+alta,palido,medio,nuevo mundo,*,ale,Ipa Blanca
+alta,palido,medio,nuevo mundo,*,*,Ipa Blanca
+alta,palido,medio,*,baja,lager,None
+alta,palido,medio,*,baja,ale,None
+alta,palido,medio,*,baja,*,None
+alta,palido,medio,*,media,lager,None
+alta,palido,medio,*,media,ale,None
+alta,palido,medio,*,media,*,None
+alta,palido,medio,*,alta,lager,None
+alta,palido,medio,*,alta,ale,Ipa Blanca
+alta,palido,medio,*,alta,*,Ipa Blanca
+alta,palido,medio,*,*,lager,None
+alta,palido,medio,*,*,ale,Ipa Blanca
+alta,palido,medio,*,*,*,Ipa Blanca
+alta,palido,alto,viejo mundo,baja,lager,None
+alta,palido,alto,viejo mundo,baja,ale,None
+alta,palido,alto,viejo mundo,baja,*,None
+alta,palido,alto,viejo mundo,media,lager,None
+alta,palido,alto,viejo mundo,media,ale,None
+alta,palido,alto,viejo mundo,media,*,None
+alta,palido,alto,viejo mundo,alta,lager,None
+alta,palido,alto,viejo mundo,alta,ale,None
+alta,palido,alto,viejo mundo,alta,*,None
+alta,palido,alto,viejo mundo,*,lager,None
+alta,palido,alto,viejo mundo,*,ale,None
+alta,palido,alto,viejo mundo,*,*,None
+alta,palido,alto,nuevo mundo,baja,lager,None
+alta,palido,alto,nuevo mundo,baja,ale,None
+alta,palido,alto,nuevo mundo,baja,*,None
+alta,palido,alto,nuevo mundo,media,lager,None
+alta,palido,alto,nuevo mundo,media,ale,None
+alta,palido,alto,nuevo mundo,media,*,None
+alta,palido,alto,nuevo mundo,alta,lager,None
+alta,palido,alto,nuevo mundo,alta,ale,Ipa Blanca
+alta,palido,alto,nuevo mundo,alta,*,Ipa Blanca
+alta,palido,alto,nuevo mundo,*,lager,None
+alta,palido,alto,nuevo mundo,*,ale,Ipa Blanca
+alta,palido,alto,nuevo mundo,*,*,Ipa Blanca
+alta,palido,alto,*,baja,lager,None
+alta,palido,alto,*,baja,ale,None
+alta,palido,alto,*,baja,*,None
+alta,palido,alto,*,media,lager,None
+alta,palido,alto,*,media,ale,None
+alta,palido,alto,*,media,*,None
+alta,palido,alto,*,alta,lager,None
+alta,palido,alto,*,alta,ale,Ipa Blanca
+alta,palido,alto,*,alta,*,Ipa Blanca
+alta,palido,alto,*,*,lager,None
+alta,palido,alto,*,*,ale,Ipa Blanca
+alta,palido,alto,*,*,*,Ipa Blanca
+alta,palido,*,viejo mundo,baja,lager,None
+alta,palido,*,viejo mundo,baja,ale,None
+alta,palido,*,viejo mundo,baja,*,None
+alta,palido,*,viejo mundo,media,lager,None
+alta,palido,*,viejo mundo,media,ale,None
+alta,palido,*,viejo mundo,media,*,None
+alta,palido,*,viejo mundo,alta,lager,None
+alta,palido,*,viejo mundo,alta,ale,None
+alta,palido,*,viejo mundo,alta,*,None
+alta,palido,*,viejo mundo,*,lager,None
+alta,palido,*,viejo mundo,*,ale,None
+alta,palido,*,viejo mundo,*,*,None
+alta,palido,*,nuevo mundo,baja,lager,None
+alta,palido,*,nuevo mundo,baja,ale,None
+alta,palido,*,nuevo mundo,baja,*,None
+alta,palido,*,nuevo mundo,media,lager,None
+alta,palido,*,nuevo mundo,media,ale,None
+alta,palido,*,nuevo mundo,media,*,None
+alta,palido,*,nuevo mundo,alta,lager,None
+alta,palido,*,nuevo mundo,alta,ale,Ipa Blanca
+alta,palido,*,nuevo mundo,alta,*,Ipa Blanca
+alta,palido,*,nuevo mundo,*,lager,None
+alta,palido,*,nuevo mundo,*,ale,Ipa Blanca
+alta,palido,*,nuevo mundo,*,*,Ipa Blanca
+alta,palido,*,*,baja,lager,None
+alta,palido,*,*,baja,ale,None
+alta,palido,*,*,baja,*,None
+alta,palido,*,*,media,lager,None
+alta,palido,*,*,media,ale,None
+alta,palido,*,*,media,*,None
+alta,palido,*,*,alta,lager,None
+alta,palido,*,*,alta,ale,Ipa Blanca
+alta,palido,*,*,alta,*,Ipa Blanca
+alta,palido,*,*,*,lager,None
+alta,palido,*,*,*,ale,Ipa Blanca
+alta,palido,*,*,*,*,Ipa Blanca
+alta,ambar,bajo,viejo mundo,baja,lager,None
+alta,ambar,bajo,viejo mundo,baja,ale,None
+alta,ambar,bajo,viejo mundo,baja,*,None
+alta,ambar,bajo,viejo mundo,media,lager,None
+alta,ambar,bajo,viejo mundo,media,ale,None
+alta,ambar,bajo,viejo mundo,media,*,None
+alta,ambar,bajo,viejo mundo,alta,lager,None
+alta,ambar,bajo,viejo mundo,alta,ale,None
+alta,ambar,bajo,viejo mundo,alta,*,None
+alta,ambar,bajo,viejo mundo,*,lager,None
+alta,ambar,bajo,viejo mundo,*,ale,None
+alta,ambar,bajo,viejo mundo,*,*,None
+alta,ambar,bajo,nuevo mundo,baja,lager,None
+alta,ambar,bajo,nuevo mundo,baja,ale,None
+alta,ambar,bajo,nuevo mundo,baja,*,None
+alta,ambar,bajo,nuevo mundo,media,lager,None
+alta,ambar,bajo,nuevo mundo,media,ale,None
+alta,ambar,bajo,nuevo mundo,media,*,None
+alta,ambar,bajo,nuevo mundo,alta,lager,None
+alta,ambar,bajo,nuevo mundo,alta,ale,None
+alta,ambar,bajo,nuevo mundo,alta,*,None
+alta,ambar,bajo,nuevo mundo,*,lager,None
+alta,ambar,bajo,nuevo mundo,*,ale,None
+alta,ambar,bajo,nuevo mundo,*,*,None
+alta,ambar,bajo,*,baja,lager,None
+alta,ambar,bajo,*,baja,ale,None
+alta,ambar,bajo,*,baja,*,None
+alta,ambar,bajo,*,media,lager,None
+alta,ambar,bajo,*,media,ale,None
+alta,ambar,bajo,*,media,*,None
+alta,ambar,bajo,*,alta,lager,None
+alta,ambar,bajo,*,alta,ale,None
+alta,ambar,bajo,*,alta,*,None
+alta,ambar,bajo,*,*,lager,None
+alta,ambar,bajo,*,*,ale,None
+alta,ambar,bajo,*,*,*,None
+alta,ambar,medio,viejo mundo,baja,lager,None
+alta,ambar,medio,viejo mundo,baja,ale,None
+alta,ambar,medio,viejo mundo,baja,*,None
+alta,ambar,medio,viejo mundo,media,lager,None
+alta,ambar,medio,viejo mundo,media,ale,None
+alta,ambar,medio,viejo mundo,media,*,None
+alta,ambar,medio,viejo mundo,alta,lager,None
+alta,ambar,medio,viejo mundo,alta,ale,None
+alta,ambar,medio,viejo mundo,alta,*,None
+alta,ambar,medio,viejo mundo,*,lager,None
+alta,ambar,medio,viejo mundo,*,ale,None
+alta,ambar,medio,viejo mundo,*,*,None
+alta,ambar,medio,nuevo mundo,baja,lager,None
+alta,ambar,medio,nuevo mundo,baja,ale,None
+alta,ambar,medio,nuevo mundo,baja,*,None
+alta,ambar,medio,nuevo mundo,media,lager,None
+alta,ambar,medio,nuevo mundo,media,ale,None
+alta,ambar,medio,nuevo mundo,media,*,None
+alta,ambar,medio,nuevo mundo,alta,lager,None
+alta,ambar,medio,nuevo mundo,alta,ale,None
+alta,ambar,medio,nuevo mundo,alta,*,None
+alta,ambar,medio,nuevo mundo,*,lager,None
+alta,ambar,medio,nuevo mundo,*,ale,None
+alta,ambar,medio,nuevo mundo,*,*,None
+alta,ambar,medio,*,baja,lager,None
+alta,ambar,medio,*,baja,ale,None
+alta,ambar,medio,*,baja,*,None
+alta,ambar,medio,*,media,lager,None
+alta,ambar,medio,*,media,ale,None
+alta,ambar,medio,*,media,*,None
+alta,ambar,medio,*,alta,lager,None
+alta,ambar,medio,*,alta,ale,None
+alta,ambar,medio,*,alta,*,None
+alta,ambar,medio,*,*,lager,None
+alta,ambar,medio,*,*,ale,None
+alta,ambar,medio,*,*,*,None
+alta,ambar,alto,viejo mundo,baja,lager,None
+alta,ambar,alto,viejo mundo,baja,ale,None
+alta,ambar,alto,viejo mundo,baja,*,None
+alta,ambar,alto,viejo mundo,media,lager,None
+alta,ambar,alto,viejo mundo,media,ale,None
+alta,ambar,alto,viejo mundo,media,*,None
+alta,ambar,alto,viejo mundo,alta,lager,None
+alta,ambar,alto,viejo mundo,alta,ale,None
+alta,ambar,alto,viejo mundo,alta,*,None
+alta,ambar,alto,viejo mundo,*,lager,None
+alta,ambar,alto,viejo mundo,*,ale,None
+alta,ambar,alto,viejo mundo,*,*,None
+alta,ambar,alto,nuevo mundo,baja,lager,None
+alta,ambar,alto,nuevo mundo,baja,ale,None
+alta,ambar,alto,nuevo mundo,baja,*,None
+alta,ambar,alto,nuevo mundo,media,lager,None
+alta,ambar,alto,nuevo mundo,media,ale,None
+alta,ambar,alto,nuevo mundo,media,*,None
+alta,ambar,alto,nuevo mundo,alta,lager,None
+alta,ambar,alto,nuevo mundo,alta,ale,None
+alta,ambar,alto,nuevo mundo,alta,*,None
+alta,ambar,alto,nuevo mundo,*,lager,None
+alta,ambar,alto,nuevo mundo,*,ale,None
+alta,ambar,alto,nuevo mundo,*,*,None
+alta,ambar,alto,*,baja,lager,None
+alta,ambar,alto,*,baja,ale,None
+alta,ambar,alto,*,baja,*,None
+alta,ambar,alto,*,media,lager,None
+alta,ambar,alto,*,media,ale,None
+alta,ambar,alto,*,media,*,None
+alta,ambar,alto,*,alta,lager,None
+alta,ambar,alto,*,alta,ale,None
+alta,ambar,alto,*,alta,*,None
+alta,ambar,alto,*,*,lager,None
+alta,ambar,alto,*,*,ale,None
+alta,ambar,alto,*,*,*,None
+alta,ambar,*,viejo mundo,baja,lager,None
+alta,ambar,*,viejo mundo,baja,ale,None
+alta,ambar,*,viejo mundo,baja,*,None
+alta,ambar,*,viejo mundo,media,lager,None
+alta,ambar,*,viejo mundo,media,ale,None
+alta,ambar,*,viejo mundo,media,*,None
+alta,ambar,*,viejo mundo,alta,lager,None
+alta,ambar,*,viejo mundo,alta,ale,None
+alta,ambar,*,viejo mundo,alta,*,None
+alta,ambar,*,viejo mundo,*,lager,None
+alta,ambar,*,viejo mundo,*,ale,None
+alta,ambar,*,viejo mundo,*,*,None
+alta,ambar,*,nuevo mundo,baja,lager,None
+alta,ambar,*,nuevo mundo,baja,ale,None
+alta,ambar,*,nuevo mundo,baja,*,None
+alta,ambar,*,nuevo mundo,media,lager,None
+alta,ambar,*,nuevo mundo,media,ale,None
+alta,ambar,*,nuevo mundo,media,*,None
+alta,ambar,*,nuevo mundo,alta,lager,None
+alta,ambar,*,nuevo mundo,alta,ale,None
+alta,ambar,*,nuevo mundo,alta,*,None
+alta,ambar,*,nuevo mundo,*,lager,None
+alta,ambar,*,nuevo mundo,*,ale,None
+alta,ambar,*,nuevo mundo,*,*,None
+alta,ambar,*,*,baja,lager,None
+alta,ambar,*,*,baja,ale,None
+alta,ambar,*,*,baja,*,None
+alta,ambar,*,*,media,lager,None
+alta,ambar,*,*,media,ale,None
+alta,ambar,*,*,media,*,None
+alta,ambar,*,*,alta,lager,None
+alta,ambar,*,*,alta,ale,None
+alta,ambar,*,*,alta,*,None
+alta,ambar,*,*,*,lager,None
+alta,ambar,*,*,*,ale,None
+alta,ambar,*,*,*,*,None
+alta,oscuro,bajo,viejo mundo,baja,lager,None
+alta,oscuro,bajo,viejo mundo,baja,ale,None
+alta,oscuro,bajo,viejo mundo,baja,*,None
+alta,oscuro,bajo,viejo mundo,media,lager,None
+alta,oscuro,bajo,viejo mundo,media,ale,None
+alta,oscuro,bajo,viejo mundo,media,*,None
+alta,oscuro,bajo,viejo mundo,alta,lager,None
+alta,oscuro,bajo,viejo mundo,alta,ale,None
+alta,oscuro,bajo,viejo mundo,alta,*,None
+alta,oscuro,bajo,viejo mundo,*,lager,None
+alta,oscuro,bajo,viejo mundo,*,ale,None
+alta,oscuro,bajo,viejo mundo,*,*,None
+alta,oscuro,bajo,nuevo mundo,baja,lager,None
+alta,oscuro,bajo,nuevo mundo,baja,ale,None
+alta,oscuro,bajo,nuevo mundo,baja,*,None
+alta,oscuro,bajo,nuevo mundo,media,lager,None
+alta,oscuro,bajo,nuevo mundo,media,ale,None
+alta,oscuro,bajo,nuevo mundo,media,*,None
+alta,oscuro,bajo,nuevo mundo,alta,lager,None
+alta,oscuro,bajo,nuevo mundo,alta,ale,None
+alta,oscuro,bajo,nuevo mundo,alta,*,None
+alta,oscuro,bajo,nuevo mundo,*,lager,None
+alta,oscuro,bajo,nuevo mundo,*,ale,None
+alta,oscuro,bajo,nuevo mundo,*,*,None
+alta,oscuro,bajo,*,baja,lager,None
+alta,oscuro,bajo,*,baja,ale,None
+alta,oscuro,bajo,*,baja,*,None
+alta,oscuro,bajo,*,media,lager,None
+alta,oscuro,bajo,*,media,ale,None
+alta,oscuro,bajo,*,media,*,None
+alta,oscuro,bajo,*,alta,lager,None
+alta,oscuro,bajo,*,alta,ale,None
+alta,oscuro,bajo,*,alta,*,None
+alta,oscuro,bajo,*,*,lager,None
+alta,oscuro,bajo,*,*,ale,None
+alta,oscuro,bajo,*,*,*,None
+alta,oscuro,medio,viejo mundo,baja,lager,None
+alta,oscuro,medio,viejo mundo,baja,ale,None
+alta,oscuro,medio,viejo mundo,baja,*,None
+alta,oscuro,medio,viejo mundo,media,lager,Baltic Porter
+alta,oscuro,medio,viejo mundo,media,ale,None
+alta,oscuro,medio,viejo mundo,media,*,Baltic Porter
+alta,oscuro,medio,viejo mundo,alta,lager,None
+alta,oscuro,medio,viejo mundo,alta,ale,None
+alta,oscuro,medio,viejo mundo,alta,*,None
+alta,oscuro,medio,viejo mundo,*,lager,Baltic Porter
+alta,oscuro,medio,viejo mundo,*,ale,None
+alta,oscuro,medio,viejo mundo,*,*,Baltic Porter
+alta,oscuro,medio,nuevo mundo,baja,lager,None
+alta,oscuro,medio,nuevo mundo,baja,ale,None
+alta,oscuro,medio,nuevo mundo,baja,*,None
+alta,oscuro,medio,nuevo mundo,media,lager,None
+alta,oscuro,medio,nuevo mundo,media,ale,None
+alta,oscuro,medio,nuevo mundo,media,*,None
+alta,oscuro,medio,nuevo mundo,alta,lager,None
+alta,oscuro,medio,nuevo mundo,alta,ale,None
+alta,oscuro,medio,nuevo mundo,alta,*,None
+alta,oscuro,medio,nuevo mundo,*,lager,None
+alta,oscuro,medio,nuevo mundo,*,ale,None
+alta,oscuro,medio,nuevo mundo,*,*,None
+alta,oscuro,medio,*,baja,lager,None
+alta,oscuro,medio,*,baja,ale,None
+alta,oscuro,medio,*,baja,*,None
+alta,oscuro,medio,*,media,lager,Baltic Porter
+alta,oscuro,medio,*,media,ale,None
+alta,oscuro,medio,*,media,*,Baltic Porter
+alta,oscuro,medio,*,alta,lager,None
+alta,oscuro,medio,*,alta,ale,None
+alta,oscuro,medio,*,alta,*,None
+alta,oscuro,medio,*,*,lager,Baltic Porter
+alta,oscuro,medio,*,*,ale,None
+alta,oscuro,medio,*,*,*,Baltic Porter
+alta,oscuro,alto,viejo mundo,baja,lager,None
+alta,oscuro,alto,viejo mundo,baja,ale,None
+alta,oscuro,alto,viejo mundo,baja,*,None
+alta,oscuro,alto,viejo mundo,media,lager,None
+alta,oscuro,alto,viejo mundo,media,ale,None
+alta,oscuro,alto,viejo mundo,media,*,None
+alta,oscuro,alto,viejo mundo,alta,lager,None
+alta,oscuro,alto,viejo mundo,alta,ale,None
+alta,oscuro,alto,viejo mundo,alta,*,None
+alta,oscuro,alto,viejo mundo,*,lager,None
+alta,oscuro,alto,viejo mundo,*,ale,None
+alta,oscuro,alto,viejo mundo,*,*,None
+alta,oscuro,alto,nuevo mundo,baja,lager,None
+alta,oscuro,alto,nuevo mundo,baja,ale,None
+alta,oscuro,alto,nuevo mundo,baja,*,None
+alta,oscuro,alto,nuevo mundo,media,lager,None
+alta,oscuro,alto,nuevo mundo,media,ale,None
+alta,oscuro,alto,nuevo mundo,media,*,None
+alta,oscuro,alto,nuevo mundo,alta,lager,None
+alta,oscuro,alto,nuevo mundo,alta,ale,None
+alta,oscuro,alto,nuevo mundo,alta,*,None
+alta,oscuro,alto,nuevo mundo,*,lager,None
+alta,oscuro,alto,nuevo mundo,*,ale,None
+alta,oscuro,alto,nuevo mundo,*,*,None
+alta,oscuro,alto,*,baja,lager,None
+alta,oscuro,alto,*,baja,ale,None
+alta,oscuro,alto,*,baja,*,None
+alta,oscuro,alto,*,media,lager,None
+alta,oscuro,alto,*,media,ale,None
+alta,oscuro,alto,*,media,*,None
+alta,oscuro,alto,*,alta,lager,None
+alta,oscuro,alto,*,alta,ale,None
+alta,oscuro,alto,*,alta,*,None
+alta,oscuro,alto,*,*,lager,None
+alta,oscuro,alto,*,*,ale,None
+alta,oscuro,alto,*,*,*,None
+alta,oscuro,*,viejo mundo,baja,lager,None
+alta,oscuro,*,viejo mundo,baja,ale,None
+alta,oscuro,*,viejo mundo,baja,*,None
+alta,oscuro,*,viejo mundo,media,lager,Baltic Porter
+alta,oscuro,*,viejo mundo,media,ale,None
+alta,oscuro,*,viejo mundo,media,*,Baltic Porter
+alta,oscuro,*,viejo mundo,alta,lager,None
+alta,oscuro,*,viejo mundo,alta,ale,None
+alta,oscuro,*,viejo mundo,alta,*,None
+alta,oscuro,*,viejo mundo,*,lager,Baltic Porter
+alta,oscuro,*,viejo mundo,*,ale,None
+alta,oscuro,*,viejo mundo,*,*,Baltic Porter
+alta,oscuro,*,nuevo mundo,baja,lager,None
+alta,oscuro,*,nuevo mundo,baja,ale,None
+alta,oscuro,*,nuevo mundo,baja,*,None
+alta,oscuro,*,nuevo mundo,media,lager,None
+alta,oscuro,*,nuevo mundo,media,ale,None
+alta,oscuro,*,nuevo mundo,media,*,None
+alta,oscuro,*,nuevo mundo,alta,lager,None
+alta,oscuro,*,nuevo mundo,alta,ale,None
+alta,oscuro,*,nuevo mundo,alta,*,None
+alta,oscuro,*,nuevo mundo,*,lager,None
+alta,oscuro,*,nuevo mundo,*,ale,None
+alta,oscuro,*,nuevo mundo,*,*,None
+alta,oscuro,*,*,baja,lager,None
+alta,oscuro,*,*,baja,ale,None
+alta,oscuro,*,*,baja,*,None
+alta,oscuro,*,*,media,lager,Baltic Porter
+alta,oscuro,*,*,media,ale,None
+alta,oscuro,*,*,media,*,Baltic Porter
+alta,oscuro,*,*,alta,lager,None
+alta,oscuro,*,*,alta,ale,None
+alta,oscuro,*,*,alta,*,None
+alta,oscuro,*,*,*,lager,Baltic Porter
+alta,oscuro,*,*,*,ale,None
+alta,oscuro,*,*,*,*,Baltic Porter
+alta,*,bajo,viejo mundo,baja,lager,None
+alta,*,bajo,viejo mundo,baja,ale,None
+alta,*,bajo,viejo mundo,baja,*,None
+alta,*,bajo,viejo mundo,media,lager,None
+alta,*,bajo,viejo mundo,media,ale,None
+alta,*,bajo,viejo mundo,media,*,None
+alta,*,bajo,viejo mundo,alta,lager,None
+alta,*,bajo,viejo mundo,alta,ale,None
+alta,*,bajo,viejo mundo,alta,*,None
+alta,*,bajo,viejo mundo,*,lager,None
+alta,*,bajo,viejo mundo,*,ale,None
+alta,*,bajo,viejo mundo,*,*,None
+alta,*,bajo,nuevo mundo,baja,lager,None
+alta,*,bajo,nuevo mundo,baja,ale,None
+alta,*,bajo,nuevo mundo,baja,*,None
+alta,*,bajo,nuevo mundo,media,lager,None
+alta,*,bajo,nuevo mundo,media,ale,None
+alta,*,bajo,nuevo mundo,media,*,None
+alta,*,bajo,nuevo mundo,alta,lager,None
+alta,*,bajo,nuevo mundo,alta,ale,None
+alta,*,bajo,nuevo mundo,alta,*,None
+alta,*,bajo,nuevo mundo,*,lager,None
+alta,*,bajo,nuevo mundo,*,ale,None
+alta,*,bajo,nuevo mundo,*,*,None
+alta,*,bajo,*,baja,lager,None
+alta,*,bajo,*,baja,ale,None
+alta,*,bajo,*,baja,*,None
+alta,*,bajo,*,media,lager,None
+alta,*,bajo,*,media,ale,None
+alta,*,bajo,*,media,*,None
+alta,*,bajo,*,alta,lager,None
+alta,*,bajo,*,alta,ale,None
+alta,*,bajo,*,alta,*,None
+alta,*,bajo,*,*,lager,None
+alta,*,bajo,*,*,ale,None
+alta,*,bajo,*,*,*,None
+alta,*,medio,viejo mundo,baja,lager,None
+alta,*,medio,viejo mundo,baja,ale,None
+alta,*,medio,viejo mundo,baja,*,None
+alta,*,medio,viejo mundo,media,lager,Baltic Porter
+alta,*,medio,viejo mundo,media,ale,None
+alta,*,medio,viejo mundo,media,*,Baltic Porter
+alta,*,medio,viejo mundo,alta,lager,None
+alta,*,medio,viejo mundo,alta,ale,None
+alta,*,medio,viejo mundo,alta,*,None
+alta,*,medio,viejo mundo,*,lager,Baltic Porter
+alta,*,medio,viejo mundo,*,ale,None
+alta,*,medio,viejo mundo,*,*,Baltic Porter
+alta,*,medio,nuevo mundo,baja,lager,None
+alta,*,medio,nuevo mundo,baja,ale,None
+alta,*,medio,nuevo mundo,baja,*,None
+alta,*,medio,nuevo mundo,media,lager,None
+alta,*,medio,nuevo mundo,media,ale,None
+alta,*,medio,nuevo mundo,media,*,None
+alta,*,medio,nuevo mundo,alta,lager,None
+alta,*,medio,nuevo mundo,alta,ale,Ipa Blanca
+alta,*,medio,nuevo mundo,alta,*,Ipa Blanca
+alta,*,medio,nuevo mundo,*,lager,None
+alta,*,medio,nuevo mundo,*,ale,Ipa Blanca
+alta,*,medio,nuevo mundo,*,*,Ipa Blanca
+alta,*,medio,*,baja,lager,None
+alta,*,medio,*,baja,ale,None
+alta,*,medio,*,baja,*,None
+alta,*,medio,*,media,lager,Baltic Porter
+alta,*,medio,*,media,ale,None
+alta,*,medio,*,media,*,Baltic Porter
+alta,*,medio,*,alta,lager,None
+alta,*,medio,*,alta,ale,Ipa Blanca
+alta,*,medio,*,alta,*,Ipa Blanca
+alta,*,medio,*,*,lager,Baltic Porter
+alta,*,medio,*,*,ale,Ipa Blanca
+alta,*,medio,*,*,*,None
+alta,*,alto,viejo mundo,baja,lager,None
+alta,*,alto,viejo mundo,baja,ale,None
+alta,*,alto,viejo mundo,baja,*,None
+alta,*,alto,viejo mundo,media,lager,None
+alta,*,alto,viejo mundo,media,ale,None
+alta,*,alto,viejo mundo,media,*,None
+alta,*,alto,viejo mundo,alta,lager,None
+alta,*,alto,viejo mundo,alta,ale,None
+alta,*,alto,viejo mundo,alta,*,None
+alta,*,alto,viejo mundo,*,lager,None
+alta,*,alto,viejo mundo,*,ale,None
+alta,*,alto,viejo mundo,*,*,None
+alta,*,alto,nuevo mundo,baja,lager,None
+alta,*,alto,nuevo mundo,baja,ale,None
+alta,*,alto,nuevo mundo,baja,*,None
+alta,*,alto,nuevo mundo,media,lager,None
+alta,*,alto,nuevo mundo,media,ale,None
+alta,*,alto,nuevo mundo,media,*,None
+alta,*,alto,nuevo mundo,alta,lager,None
+alta,*,alto,nuevo mundo,alta,ale,Ipa Blanca
+alta,*,alto,nuevo mundo,alta,*,Ipa Blanca
+alta,*,alto,nuevo mundo,*,lager,None
+alta,*,alto,nuevo mundo,*,ale,Ipa Blanca
+alta,*,alto,nuevo mundo,*,*,Ipa Blanca
+alta,*,alto,*,baja,lager,None
+alta,*,alto,*,baja,ale,None
+alta,*,alto,*,baja,*,None
+alta,*,alto,*,media,lager,None
+alta,*,alto,*,media,ale,None
+alta,*,alto,*,media,*,None
+alta,*,alto,*,alta,lager,None
+alta,*,alto,*,alta,ale,Ipa Blanca
+alta,*,alto,*,alta,*,Ipa Blanca
+alta,*,alto,*,*,lager,None
+alta,*,alto,*,*,ale,Ipa Blanca
+alta,*,alto,*,*,*,Ipa Blanca
+alta,*,*,viejo mundo,baja,lager,None
+alta,*,*,viejo mundo,baja,ale,None
+alta,*,*,viejo mundo,baja,*,None
+alta,*,*,viejo mundo,media,lager,Baltic Porter
+alta,*,*,viejo mundo,media,ale,None
+alta,*,*,viejo mundo,media,*,Baltic Porter
+alta,*,*,viejo mundo,alta,lager,None
+alta,*,*,viejo mundo,alta,ale,None
+alta,*,*,viejo mundo,alta,*,None
+alta,*,*,viejo mundo,*,lager,Baltic Porter
+alta,*,*,viejo mundo,*,ale,None
+alta,*,*,viejo mundo,*,*,Baltic Porter
+alta,*,*,nuevo mundo,baja,lager,None
+alta,*,*,nuevo mundo,baja,ale,None
+alta,*,*,nuevo mundo,baja,*,None
+alta,*,*,nuevo mundo,media,lager,None
+alta,*,*,nuevo mundo,media,ale,None
+alta,*,*,nuevo mundo,media,*,None
+alta,*,*,nuevo mundo,alta,lager,None
+alta,*,*,nuevo mundo,alta,ale,Ipa Blanca
+alta,*,*,nuevo mundo,alta,*,Ipa Blanca
+alta,*,*,nuevo mundo,*,lager,None
+alta,*,*,nuevo mundo,*,ale,Ipa Blanca
+alta,*,*,nuevo mundo,*,*,Ipa Blanca
+alta,*,*,*,baja,lager,None
+alta,*,*,*,baja,ale,None
+alta,*,*,*,baja,*,None
+alta,*,*,*,media,lager,Baltic Porter
+alta,*,*,*,media,ale,None
+alta,*,*,*,media,*,Baltic Porter
+alta,*,*,*,alta,lager,None
+alta,*,*,*,alta,ale,Ipa Blanca
+alta,*,*,*,alta,*,Ipa Blanca
+alta,*,*,*,*,lager,Baltic Porter
+alta,*,*,*,*,ale,Ipa Blanca
+alta,*,*,*,*,*,None
+*,palido,bajo,viejo mundo,baja,lager,None
+*,palido,bajo,viejo mundo,baja,ale,None
+*,palido,bajo,viejo mundo,baja,*,None
+*,palido,bajo,viejo mundo,media,lager,None
+*,palido,bajo,viejo mundo,media,ale,None
+*,palido,bajo,viejo mundo,media,*,None
+*,palido,bajo,viejo mundo,alta,lager,None
+*,palido,bajo,viejo mundo,alta,ale,Kolsch
+*,palido,bajo,viejo mundo,alta,*,Kolsch
+*,palido,bajo,viejo mundo,*,lager,None
+*,palido,bajo,viejo mundo,*,ale,Kolsch
+*,palido,bajo,viejo mundo,*,*,Kolsch
+*,palido,bajo,nuevo mundo,baja,lager,None
+*,palido,bajo,nuevo mundo,baja,ale,None
+*,palido,bajo,nuevo mundo,baja,*,None
+*,palido,bajo,nuevo mundo,media,lager,None
+*,palido,bajo,nuevo mundo,media,ale,Cream Ale
+*,palido,bajo,nuevo mundo,media,*,Cream Ale
+*,palido,bajo,nuevo mundo,alta,lager,None
+*,palido,bajo,nuevo mundo,alta,ale,None
+*,palido,bajo,nuevo mundo,alta,*,None
+*,palido,bajo,nuevo mundo,*,lager,None
+*,palido,bajo,nuevo mundo,*,ale,Cream Ale
+*,palido,bajo,nuevo mundo,*,*,Cream Ale
+*,palido,bajo,*,baja,lager,None
+*,palido,bajo,*,baja,ale,None
+*,palido,bajo,*,baja,*,None
+*,palido,bajo,*,media,lager,None
+*,palido,bajo,*,media,ale,Cream Ale
+*,palido,bajo,*,media,*,Cream Ale
+*,palido,bajo,*,alta,lager,None
+*,palido,bajo,*,alta,ale,Kolsch
+*,palido,bajo,*,alta,*,Kolsch
+*,palido,bajo,*,*,lager,None
+*,palido,bajo,*,*,ale,None
+*,palido,bajo,*,*,*,None
+*,palido,medio,viejo mundo,baja,lager,None
+*,palido,medio,viejo mundo,baja,ale,None
+*,palido,medio,viejo mundo,baja,*,None
+*,palido,medio,viejo mundo,media,lager,None
+*,palido,medio,viejo mundo,media,ale,None
+*,palido,medio,viejo mundo,media,*,None
+*,palido,medio,viejo mundo,alta,lager,None
+*,palido,medio,viejo mundo,alta,ale,Kolsch
+*,palido,medio,viejo mundo,alta,*,Kolsch
+*,palido,medio,viejo mundo,*,lager,None
+*,palido,medio,viejo mundo,*,ale,Kolsch
+*,palido,medio,viejo mundo,*,*,Kolsch
+*,palido,medio,nuevo mundo,baja,lager,None
+*,palido,medio,nuevo mundo,baja,ale,None
+*,palido,medio,nuevo mundo,baja,*,None
+*,palido,medio,nuevo mundo,media,lager,None
+*,palido,medio,nuevo mundo,media,ale,Cream Ale
+*,palido,medio,nuevo mundo,media,*,Cream Ale
+*,palido,medio,nuevo mundo,alta,lager,None
+*,palido,medio,nuevo mundo,alta,ale,Ipa Blanca
+*,palido,medio,nuevo mundo,alta,*,Ipa Blanca
+*,palido,medio,nuevo mundo,*,lager,None
+*,palido,medio,nuevo mundo,*,ale,None
+*,palido,medio,nuevo mundo,*,*,None
+*,palido,medio,*,baja,lager,None
+*,palido,medio,*,baja,ale,None
+*,palido,medio,*,baja,*,None
+*,palido,medio,*,media,lager,None
+*,palido,medio,*,media,ale,Cream Ale
+*,palido,medio,*,media,*,Cream Ale
+*,palido,medio,*,alta,lager,None
+*,palido,medio,*,alta,ale,None
+*,palido,medio,*,alta,*,None
+*,palido,medio,*,*,lager,None
+*,palido,alto,viejo mundo,baja,lager,None
+*,palido,alto,viejo mundo,baja,ale,None
+*,palido,alto,viejo mundo,baja,*,None
+*,palido,alto,viejo mundo,media,lager,None
+*,palido,alto,viejo mundo,media,ale,None
+*,palido,alto,viejo mundo,media,*,None
+*,palido,alto,viejo mundo,alta,lager,None
+*,palido,alto,viejo mundo,alta,ale,None
+*,palido,alto,viejo mundo,alta,*,None
+*,palido,alto,viejo mundo,*,lager,None
+*,palido,alto,viejo mundo,*,ale,None
+*,palido,alto,viejo mundo,*,*,None
+*,palido,alto,nuevo mundo,baja,lager,None
+*,palido,alto,nuevo mundo,baja,ale,None
+*,palido,alto,nuevo mundo,baja,*,None
+*,palido,alto,nuevo mundo,media,lager,None
+*,palido,alto,nuevo mundo,media,ale,None
+*,palido,alto,nuevo mundo,media,*,None
+*,palido,alto,nuevo mundo,alta,lager,None
+*,palido,alto,nuevo mundo,alta,ale,Ipa Blanca
+*,palido,alto,nuevo mundo,alta,*,Ipa Blanca
+*,palido,alto,nuevo mundo,*,lager,None
+*,palido,alto,nuevo mundo,*,ale,Ipa Blanca
+*,palido,alto,nuevo mundo,*,*,Ipa Blanca
+*,palido,alto,*,baja,lager,None
+*,palido,alto,*,baja,ale,None
+*,palido,alto,*,baja,*,None
+*,palido,alto,*,media,lager,None
+*,palido,alto,*,media,ale,None
+*,palido,alto,*,media,*,None
+*,palido,alto,*,alta,lager,None
+*,palido,alto,*,alta,ale,Ipa Blanca
+*,palido,alto,*,alta,*,Ipa Blanca
+*,palido,alto,*,*,lager,None
+*,palido,alto,*,*,ale,Ipa Blanca
+*,palido,alto,*,*,*,Ipa Blanca
+*,palido,*,viejo mundo,baja,lager,None
+*,palido,*,viejo mundo,baja,ale,None
+*,palido,*,viejo mundo,baja,*,None
+*,palido,*,viejo mundo,media,lager,None
+*,palido,*,viejo mundo,media,ale,None
+*,palido,*,viejo mundo,media,*,None
+*,palido,*,viejo mundo,alta,lager,None
+*,palido,*,viejo mundo,alta,ale,Kolsch
+*,palido,*,viejo mundo,alta,*,Kolsch
+*,palido,*,viejo mundo,*,lager,None
+*,palido,*,viejo mundo,*,ale,Kolsch
+*,palido,*,viejo mundo,*,*,Kolsch
+*,palido,*,nuevo mundo,baja,lager,None
+*,palido,*,nuevo mundo,baja,ale,None
+*,palido,*,nuevo mundo,baja,*,None
+*,palido,*,nuevo mundo,media,lager,None
+*,palido,*,nuevo mundo,media,ale,Cream Ale
+*,palido,*,nuevo mundo,media,*,Cream Ale
+*,palido,*,nuevo mundo,alta,lager,None
+*,palido,*,nuevo mundo,alta,ale,Ipa Blanca
+*,palido,*,nuevo mundo,alta,*,Ipa Blanca
+*,palido,*,nuevo mundo,*,lager,None
+*,palido,*,nuevo mundo,*,ale,None
+*,palido,*,nuevo mundo,*,*,None
+*,palido,*,*,baja,lager,None
+*,palido,*,*,baja,ale,None
+*,palido,*,*,baja,*,None
+*,palido,*,*,media,lager,None
+*,palido,*,*,media,ale,Cream Ale
+*,palido,*,*,media,*,Cream Ale
+*,palido,*,*,alta,lager,None
+*,palido,*,*,alta,ale,None
+*,palido,*,*,alta,*,None
+*,palido,*,*,*,lager,None
+*,ambar,bajo,viejo mundo,baja,lager,Lager Ambar Checa
+*,ambar,bajo,viejo mundo,baja,ale,None
+*,ambar,bajo,viejo mundo,baja,*,Lager Ambar Checa
+*,ambar,bajo,viejo mundo,media,lager,None
+*,ambar,bajo,viejo mundo,media,ale,None
+*,ambar,bajo,viejo mundo,media,*,None
+*,ambar,bajo,viejo mundo,alta,lager,None
+*,ambar,bajo,viejo mundo,alta,ale,None
+*,ambar,bajo,viejo mundo,alta,*,None
+*,ambar,bajo,viejo mundo,*,lager,Lager Ambar Checa
+*,ambar,bajo,viejo mundo,*,ale,None
+*,ambar,bajo,viejo mundo,*,*,Lager Ambar Checa
+*,ambar,bajo,nuevo mundo,baja,lager,None
+*,ambar,bajo,nuevo mundo,baja,ale,None
+*,ambar,bajo,nuevo mundo,baja,*,None
+*,ambar,bajo,nuevo mundo,media,lager,None
+*,ambar,bajo,nuevo mundo,media,ale,None
+*,ambar,bajo,nuevo mundo,media,*,None
+*,ambar,bajo,nuevo mundo,alta,lager,None
+*,ambar,bajo,nuevo mundo,alta,ale,None
+*,ambar,bajo,nuevo mundo,alta,*,None
+*,ambar,bajo,nuevo mundo,*,lager,None
+*,ambar,bajo,nuevo mundo,*,ale,None
+*,ambar,bajo,nuevo mundo,*,*,None
+*,ambar,bajo,*,baja,lager,Lager Ambar Checa
+*,ambar,bajo,*,baja,ale,None
+*,ambar,bajo,*,baja,*,Lager Ambar Checa
+*,ambar,bajo,*,media,lager,None
+*,ambar,bajo,*,media,ale,None
+*,ambar,bajo,*,media,*,None
+*,ambar,bajo,*,alta,lager,None
+*,ambar,bajo,*,alta,ale,None
+*,ambar,bajo,*,alta,*,None
+*,ambar,bajo,*,*,lager,Lager Ambar Checa
+*,ambar,bajo,*,*,ale,None
+*,ambar,bajo,*,*,*,Lager Ambar Checa
+*,ambar,medio,viejo mundo,baja,lager,Lager Ambar Checa
+*,ambar,medio,viejo mundo,baja,ale,None
+*,ambar,medio,viejo mundo,baja,*,Lager Ambar Checa
+*,ambar,medio,viejo mundo,media,lager,None
+*,ambar,medio,viejo mundo,media,ale,None
+*,ambar,medio,viejo mundo,media,*,None
+*,ambar,medio,viejo mundo,alta,lager,None
+*,ambar,medio,viejo mundo,alta,ale,None
+*,ambar,medio,viejo mundo,alta,*,None
+*,ambar,medio,viejo mundo,*,lager,Lager Ambar Checa
+*,ambar,medio,viejo mundo,*,ale,None
+*,ambar,medio,viejo mundo,*,*,Lager Ambar Checa
+*,ambar,medio,nuevo mundo,baja,lager,None
+*,ambar,medio,nuevo mundo,baja,ale,None
+*,ambar,medio,nuevo mundo,baja,*,None
+*,ambar,medio,nuevo mundo,media,lager,None
+*,ambar,medio,nuevo mundo,media,ale,None
+*,ambar,medio,nuevo mundo,media,*,None
+*,ambar,medio,nuevo mundo,alta,lager,None
+*,ambar,medio,nuevo mundo,alta,ale,None
+*,ambar,medio,nuevo mundo,alta,*,None
+*,ambar,medio,nuevo mundo,*,lager,None
+*,ambar,medio,nuevo mundo,*,ale,None
+*,ambar,medio,nuevo mundo,*,*,None
+*,ambar,medio,*,baja,lager,Lager Ambar Checa
+*,ambar,medio,*,baja,ale,None
+*,ambar,medio,*,baja,*,Lager Ambar Checa
+*,ambar,medio,*,media,lager,None
+*,ambar,medio,*,media,ale,None
+*,ambar,medio,*,media,*,None
+*,ambar,medio,*,alta,lager,None
+*,ambar,medio,*,alta,ale,None
+*,ambar,medio,*,alta,*,None
+*,ambar,medio,*,*,lager,Lager Ambar Checa
+*,ambar,medio,*,*,ale,None
+*,ambar,medio,*,*,*,Lager Ambar Checa
+*,ambar,alto,viejo mundo,baja,lager,None
+*,ambar,alto,viejo mundo,baja,ale,None
+*,ambar,alto,viejo mundo,baja,*,None
+*,ambar,alto,viejo mundo,media,lager,None
+*,ambar,alto,viejo mundo,media,ale,None
+*,ambar,alto,viejo mundo,media,*,None
+*,ambar,alto,viejo mundo,alta,lager,None
+*,ambar,alto,viejo mundo,alta,ale,None
+*,ambar,alto,viejo mundo,alta,*,None
+*,ambar,alto,viejo mundo,*,lager,None
+*,ambar,alto,viejo mundo,*,ale,None
+*,ambar,alto,viejo mundo,*,*,None
+*,ambar,alto,nuevo mundo,baja,lager,None
+*,ambar,alto,nuevo mundo,baja,ale,None
+*,ambar,alto,nuevo mundo,baja,*,None
+*,ambar,alto,nuevo mundo,media,lager,None
+*,ambar,alto,nuevo mundo,media,ale,None
+*,ambar,alto,nuevo mundo,media,*,None
+*,ambar,alto,nuevo mundo,alta,lager,None
+*,ambar,alto,nuevo mundo,alta,ale,None
+*,ambar,alto,nuevo mundo,alta,*,None
+*,ambar,alto,nuevo mundo,*,lager,None
+*,ambar,alto,nuevo mundo,*,ale,None
+*,ambar,alto,nuevo mundo,*,*,None
+*,ambar,alto,*,baja,lager,None
+*,ambar,alto,*,baja,ale,None
+*,ambar,alto,*,baja,*,None
+*,ambar,alto,*,media,lager,None
+*,ambar,alto,*,media,ale,None
+*,ambar,alto,*,media,*,None
+*,ambar,alto,*,alta,lager,None
+*,ambar,alto,*,alta,ale,None
+*,ambar,alto,*,alta,*,None
+*,ambar,alto,*,*,lager,None
+*,ambar,alto,*,*,ale,None
+*,ambar,alto,*,*,*,None
+*,ambar,*,viejo mundo,baja,lager,Lager Ambar Checa
+*,ambar,*,viejo mundo,baja,ale,None
+*,ambar,*,viejo mundo,baja,*,Lager Ambar Checa
+*,ambar,*,viejo mundo,media,lager,None
+*,ambar,*,viejo mundo,media,ale,None
+*,ambar,*,viejo mundo,media,*,None
+*,ambar,*,viejo mundo,alta,lager,None
+*,ambar,*,viejo mundo,alta,ale,None
+*,ambar,*,viejo mundo,alta,*,None
+*,ambar,*,viejo mundo,*,lager,Lager Ambar Checa
+*,ambar,*,viejo mundo,*,ale,None
+*,ambar,*,viejo mundo,*,*,Lager Ambar Checa
+*,ambar,*,nuevo mundo,baja,lager,None
+*,ambar,*,nuevo mundo,baja,ale,None
+*,ambar,*,nuevo mundo,baja,*,None
+*,ambar,*,nuevo mundo,media,lager,None
+*,ambar,*,nuevo mundo,media,ale,None
+*,ambar,*,nuevo mundo,media,*,None
+*,ambar,*,nuevo mundo,alta,lager,None
+*,ambar,*,nuevo mundo,alta,ale,None
+*,ambar,*,nuevo mundo,alta,*,None
+*,ambar,*,nuevo mundo,*,lager,None
+*,ambar,*,nuevo mundo,*,ale,None
+*,ambar,*,nuevo mundo,*,*,None
+*,ambar,*,*,baja,lager,Lager Ambar Checa
+*,ambar,*,*,baja,ale,None
+*,ambar,*,*,baja,*,Lager Ambar Checa
+*,ambar,*,*,media,lager,None
+*,ambar,*,*,media,ale,None
+*,ambar,*,*,media,*,None
+*,ambar,*,*,alta,lager,None
+*,ambar,*,*,alta,ale,None
+*,ambar,*,*,alta,*,None
+*,ambar,*,*,*,lager,Lager Ambar Checa
+*,ambar,*,*,*,ale,None
+*,ambar,*,*,*,*,Lager Ambar Checa
+*,oscuro,bajo,viejo mundo,baja,lager,Lager Ambar Checa
+*,oscuro,bajo,viejo mundo,baja,ale,None
+*,oscuro,bajo,viejo mundo,baja,*,Lager Ambar Checa
+*,oscuro,bajo,viejo mundo,media,lager,None
+*,oscuro,bajo,viejo mundo,media,ale,None
+*,oscuro,bajo,viejo mundo,media,*,None
+*,oscuro,bajo,viejo mundo,alta,lager,None
+*,oscuro,bajo,viejo mundo,alta,ale,None
+*,oscuro,bajo,viejo mundo,alta,*,None
+*,oscuro,bajo,viejo mundo,*,lager,Lager Ambar Checa
+*,oscuro,bajo,viejo mundo,*,ale,None
+*,oscuro,bajo,viejo mundo,*,*,Lager Ambar Checa
+*,oscuro,bajo,nuevo mundo,baja,lager,None
+*,oscuro,bajo,nuevo mundo,baja,ale,None
+*,oscuro,bajo,nuevo mundo,baja,*,None
+*,oscuro,bajo,nuevo mundo,media,lager,None
+*,oscuro,bajo,nuevo mundo,media,ale,None
+*,oscuro,bajo,nuevo mundo,media,*,None
+*,oscuro,bajo,nuevo mundo,alta,lager,None
+*,oscuro,bajo,nuevo mundo,alta,ale,None
+*,oscuro,bajo,nuevo mundo,alta,*,None
+*,oscuro,bajo,nuevo mundo,*,lager,None
+*,oscuro,bajo,nuevo mundo,*,ale,None
+*,oscuro,bajo,nuevo mundo,*,*,None
+*,oscuro,bajo,*,baja,lager,Lager Ambar Checa
+*,oscuro,bajo,*,baja,ale,None
+*,oscuro,bajo,*,baja,*,Lager Ambar Checa
+*,oscuro,bajo,*,media,lager,None
+*,oscuro,bajo,*,media,ale,None
+*,oscuro,bajo,*,media,*,None
+*,oscuro,bajo,*,alta,lager,None
+*,oscuro,bajo,*,alta,ale,None
+*,oscuro,bajo,*,alta,*,None
+*,oscuro,bajo,*,*,lager,Lager Ambar Checa
+*,oscuro,bajo,*,*,ale,None
+*,oscuro,bajo,*,*,*,Lager Ambar Checa
+*,oscuro,medio,viejo mundo,baja,lager,Lager Ambar Checa
+*,oscuro,medio,viejo mundo,baja,ale,None
+*,oscuro,medio,viejo mundo,baja,*,Lager Ambar Checa
+*,oscuro,medio,viejo mundo,media,lager,Baltic Porter
+*,oscuro,medio,viejo mundo,media,ale,None
+*,oscuro,medio,viejo mundo,media,*,Baltic Porter
+*,oscuro,medio,viejo mundo,alta,lager,None
+*,oscuro,medio,viejo mundo,alta,ale,None
+*,oscuro,medio,viejo mundo,alta,*,None
+*,oscuro,medio,viejo mundo,*,lager,None
+*,oscuro,medio,viejo mundo,*,ale,None
+*,oscuro,medio,viejo mundo,*,*,None
+*,oscuro,medio,nuevo mundo,baja,lager,None
+*,oscuro,medio,nuevo mundo,baja,ale,None
+*,oscuro,medio,nuevo mundo,baja,*,None
+*,oscuro,medio,nuevo mundo,media,lager,None
+*,oscuro,medio,nuevo mundo,media,ale,None
+*,oscuro,medio,nuevo mundo,media,*,None
+*,oscuro,medio,nuevo mundo,alta,lager,None
+*,oscuro,medio,nuevo mundo,alta,ale,None
+*,oscuro,medio,nuevo mundo,alta,*,None
+*,oscuro,medio,nuevo mundo,*,lager,None
+*,oscuro,medio,nuevo mundo,*,ale,None
+*,oscuro,medio,nuevo mundo,*,*,None
+*,oscuro,medio,*,baja,lager,Lager Ambar Checa
+*,oscuro,medio,*,baja,ale,None
+*,oscuro,medio,*,baja,*,Lager Ambar Checa
+*,oscuro,medio,*,media,lager,Baltic Porter
+*,oscuro,medio,*,media,ale,None
+*,oscuro,medio,*,media,*,Baltic Porter
+*,oscuro,medio,*,alta,lager,None
+*,oscuro,medio,*,alta,ale,None
+*,oscuro,medio,*,alta,*,None
+*,oscuro,medio,*,*,lager,None
+*,oscuro,medio,*,*,ale,None
+*,oscuro,medio,*,*,*,None
+*,oscuro,alto,viejo mundo,baja,lager,None
+*,oscuro,alto,viejo mundo,baja,ale,None
+*,oscuro,alto,viejo mundo,baja,*,None
+*,oscuro,alto,viejo mundo,media,lager,None
+*,oscuro,alto,viejo mundo,media,ale,None
+*,oscuro,alto,viejo mundo,media,*,None
+*,oscuro,alto,viejo mundo,alta,lager,None
+*,oscuro,alto,viejo mundo,alta,ale,None
+*,oscuro,alto,viejo mundo,alta,*,None
+*,oscuro,alto,viejo mundo,*,lager,None
+*,oscuro,alto,viejo mundo,*,ale,None
+*,oscuro,alto,viejo mundo,*,*,None
+*,oscuro,alto,nuevo mundo,baja,lager,None
+*,oscuro,alto,nuevo mundo,baja,ale,None
+*,oscuro,alto,nuevo mundo,baja,*,None
+*,oscuro,alto,nuevo mundo,media,lager,None
+*,oscuro,alto,nuevo mundo,media,ale,None
+*,oscuro,alto,nuevo mundo,media,*,None
+*,oscuro,alto,nuevo mundo,alta,lager,None
+*,oscuro,alto,nuevo mundo,alta,ale,None
+*,oscuro,alto,nuevo mundo,alta,*,None
+*,oscuro,alto,nuevo mundo,*,lager,None
+*,oscuro,alto,nuevo mundo,*,ale,None
+*,oscuro,alto,nuevo mundo,*,*,None
+*,oscuro,alto,*,baja,lager,None
+*,oscuro,alto,*,baja,ale,None
+*,oscuro,alto,*,baja,*,None
+*,oscuro,alto,*,media,lager,None
+*,oscuro,alto,*,media,ale,None
+*,oscuro,alto,*,media,*,None
+*,oscuro,alto,*,alta,lager,None
+*,oscuro,alto,*,alta,ale,None
+*,oscuro,alto,*,alta,*,None
+*,oscuro,alto,*,*,lager,None
+*,oscuro,alto,*,*,ale,None
+*,oscuro,alto,*,*,*,None
+*,oscuro,*,viejo mundo,baja,lager,Lager Ambar Checa
+*,oscuro,*,viejo mundo,baja,ale,None
+*,oscuro,*,viejo mundo,baja,*,Lager Ambar Checa
+*,oscuro,*,viejo mundo,media,lager,Baltic Porter
+*,oscuro,*,viejo mundo,media,ale,None
+*,oscuro,*,viejo mundo,media,*,Baltic Porter
+*,oscuro,*,viejo mundo,alta,lager,None
+*,oscuro,*,viejo mundo,alta,ale,None
+*,oscuro,*,viejo mundo,alta,*,None
+*,oscuro,*,viejo mundo,*,lager,None
+*,oscuro,*,viejo mundo,*,ale,None
+*,oscuro,*,viejo mundo,*,*,None
+*,oscuro,*,nuevo mundo,baja,lager,None
+*,oscuro,*,nuevo mundo,baja,ale,None
+*,oscuro,*,nuevo mundo,baja,*,None
+*,oscuro,*,nuevo mundo,media,lager,None
+*,oscuro,*,nuevo mundo,media,ale,None
+*,oscuro,*,nuevo mundo,media,*,None
+*,oscuro,*,nuevo mundo,alta,lager,None
+*,oscuro,*,nuevo mundo,alta,ale,None
+*,oscuro,*,nuevo mundo,alta,*,None
+*,oscuro,*,nuevo mundo,*,lager,None
+*,oscuro,*,nuevo mundo,*,ale,None
+*,oscuro,*,nuevo mundo,*,*,None
+*,oscuro,*,*,baja,lager,Lager Ambar Checa
+*,oscuro,*,*,baja,ale,None
+*,oscuro,*,*,baja,*,Lager Ambar Checa
+*,oscuro,*,*,media,lager,Baltic Porter
+*,oscuro,*,*,media,ale,None
+*,oscuro,*,*,media,*,Baltic Porter
+*,oscuro,*,*,alta,lager,None
+*,oscuro,*,*,alta,ale,None
+*,oscuro,*,*,alta,*,None
+*,oscuro,*,*,*,lager,None
+*,oscuro,*,*,*,ale,None
+*,oscuro,*,*,*,*,None
+*,*,bajo,viejo mundo,baja,lager,Lager Ambar Checa
+*,*,bajo,viejo mundo,baja,ale,None
+*,*,bajo,viejo mundo,baja,*,Lager Ambar Checa
+*,*,bajo,viejo mundo,media,lager,None
+*,*,bajo,viejo mundo,media,ale,None
+*,*,bajo,viejo mundo,media,*,None
+*,*,bajo,viejo mundo,alta,lager,None
+*,*,bajo,viejo mundo,alta,ale,Kolsch
+*,*,bajo,viejo mundo,alta,*,Kolsch
+*,*,bajo,viejo mundo,*,lager,Lager Ambar Checa
+*,*,bajo,viejo mundo,*,ale,Kolsch
+*,*,bajo,viejo mundo,*,*,None
+*,*,bajo,nuevo mundo,baja,lager,None
+*,*,bajo,nuevo mundo,baja,ale,None
+*,*,bajo,nuevo mundo,baja,*,None
+*,*,bajo,nuevo mundo,media,lager,None
+*,*,bajo,nuevo mundo,media,ale,Cream Ale
+*,*,bajo,nuevo mundo,media,*,Cream Ale
+*,*,bajo,nuevo mundo,alta,lager,None
+*,*,bajo,nuevo mundo,alta,ale,None
+*,*,bajo,nuevo mundo,alta,*,None
+*,*,bajo,nuevo mundo,*,lager,None
+*,*,bajo,nuevo mundo,*,ale,Cream Ale
+*,*,bajo,nuevo mundo,*,*,Cream Ale
+*,*,bajo,*,baja,lager,Lager Ambar Checa
+*,*,bajo,*,baja,ale,None
+*,*,bajo,*,baja,*,Lager Ambar Checa
+*,*,bajo,*,media,lager,None
+*,*,bajo,*,media,ale,Cream Ale
+*,*,bajo,*,media,*,Cream Ale
+*,*,bajo,*,alta,lager,None
+*,*,bajo,*,alta,ale,Kolsch
+*,*,bajo,*,alta,*,Kolsch
+*,*,bajo,*,*,lager,Lager Ambar Checa
+*,*,bajo,*,*,ale,None
+*,*,medio,viejo mundo,baja,lager,Lager Ambar Checa
+*,*,medio,viejo mundo,baja,ale,None
+*,*,medio,viejo mundo,baja,*,Lager Ambar Checa
+*,*,medio,viejo mundo,media,lager,Baltic Porter
+*,*,medio,viejo mundo,media,ale,None
+*,*,medio,viejo mundo,media,*,Baltic Porter
+*,*,medio,viejo mundo,alta,lager,None
+*,*,medio,viejo mundo,alta,ale,Kolsch
+*,*,medio,viejo mundo,alta,*,Kolsch
+*,*,medio,viejo mundo,*,lager,None
+*,*,medio,viejo mundo,*,ale,Kolsch
+*,*,medio,nuevo mundo,baja,lager,None
+*,*,medio,nuevo mundo,baja,ale,None
+*,*,medio,nuevo mundo,baja,*,None
+*,*,medio,nuevo mundo,media,lager,None
+*,*,medio,nuevo mundo,media,ale,Cream Ale
+*,*,medio,nuevo mundo,media,*,Cream Ale
+*,*,medio,nuevo mundo,alta,lager,None
+*,*,medio,nuevo mundo,alta,ale,Ipa Blanca
+*,*,medio,nuevo mundo,alta,*,Ipa Blanca
+*,*,medio,nuevo mundo,*,lager,None
+*,*,medio,nuevo mundo,*,ale,None
+*,*,medio,nuevo mundo,*,*,None
+*,*,medio,*,baja,lager,Lager Ambar Checa
+*,*,medio,*,baja,ale,None
+*,*,medio,*,baja,*,Lager Ambar Checa
+*,*,medio,*,media,lager,Baltic Porter
+*,*,medio,*,media,ale,Cream Ale
+*,*,medio,*,media,*,None
+*,*,medio,*,alta,lager,None
+*,*,medio,*,alta,ale,None
+*,*,medio,*,alta,*,None
+*,*,medio,*,*,lager,None
+*,*,alto,viejo mundo,baja,lager,None
+*,*,alto,viejo mundo,baja,ale,None
+*,*,alto,viejo mundo,baja,*,None
+*,*,alto,viejo mundo,media,lager,None
+*,*,alto,viejo mundo,media,ale,None
+*,*,alto,viejo mundo,media,*,None
+*,*,alto,viejo mundo,alta,lager,None
+*,*,alto,viejo mundo,alta,ale,None
+*,*,alto,viejo mundo,alta,*,None
+*,*,alto,viejo mundo,*,lager,None
+*,*,alto,viejo mundo,*,ale,None
+*,*,alto,viejo mundo,*,*,None
+*,*,alto,nuevo mundo,baja,lager,None
+*,*,alto,nuevo mundo,baja,ale,None
+*,*,alto,nuevo mundo,baja,*,None
+*,*,alto,nuevo mundo,media,lager,None
+*,*,alto,nuevo mundo,media,ale,None
+*,*,alto,nuevo mundo,media,*,None
+*,*,alto,nuevo mundo,alta,lager,None
+*,*,alto,nuevo mundo,alta,ale,Ipa Blanca
+*,*,alto,nuevo mundo,alta,*,Ipa Blanca
+*,*,alto,nuevo mundo,*,lager,None
+*,*,alto,nuevo mundo,*,ale,Ipa Blanca
+*,*,alto,nuevo mundo,*,*,Ipa Blanca
+*,*,alto,*,baja,lager,None
+*,*,alto,*,baja,ale,None
+*,*,alto,*,baja,*,None
+*,*,alto,*,media,lager,None
+*,*,alto,*,media,ale,None
+*,*,alto,*,media,*,None
+*,*,alto,*,alta,lager,None
+*,*,alto,*,alta,ale,Ipa Blanca
+*,*,alto,*,alta,*,Ipa Blanca
+*,*,alto,*,*,lager,None
+*,*,alto,*,*,ale,Ipa Blanca
+*,*,alto,*,*,*,Ipa Blanca
+*,*,*,viejo mundo,baja,lager,Lager Ambar Checa
+*,*,*,viejo mundo,baja,ale,None
+*,*,*,viejo mundo,baja,*,Lager Ambar Checa
+*,*,*,viejo mundo,media,lager,Baltic Porter
+*,*,*,viejo mundo,media,ale,None
+*,*,*,viejo mundo,media,*,Baltic Porter
+*,*,*,viejo mundo,alta,lager,None
+*,*,*,viejo mundo,alta,ale,Kolsch
+*,*,*,viejo mundo,alta,*,Kolsch
+*,*,*,viejo mundo,*,lager,None
+*,*,*,viejo mundo,*,ale,Kolsch
+*,*,*,nuevo mundo,baja,lager,None
+*,*,*,nuevo mundo,baja,ale,None
+*,*,*,nuevo mundo,baja,*,None
+*,*,*,nuevo mundo,media,lager,None
+*,*,*,nuevo mundo,media,ale,Cream Ale
+*,*,*,nuevo mundo,media,*,Cream Ale
+*,*,*,nuevo mundo,alta,lager,None
+*,*,*,nuevo mundo,alta,ale,Ipa Blanca
+*,*,*,nuevo mundo,alta,*,Ipa Blanca
+*,*,*,nuevo mundo,*,lager,None
+*,*,*,nuevo mundo,*,ale,None
+*,*,*,nuevo mundo,*,*,None
+*,*,*,*,baja,lager,Lager Ambar Checa
+*,*,*,*,baja,ale,None
+*,*,*,*,baja,*,Lager Ambar Checa
+*,*,*,*,media,lager,Baltic Porter
+*,*,*,*,media,ale,Cream Ale
+*,*,*,*,media,*,None
+*,*,*,*,alta,lager,None
+*,*,*,*,alta,ale,None
+*,*,*,*,alta,*,None
+*,*,*,*,*,lager,None
