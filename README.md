@@ -1,9 +1,14 @@
-# Fallas-1
+# Fallas-II
+
+## Causal Infernace
+
+Open Notebooks/causal_inference.ipynb or Notebooks/causal_inference_alt.ipynb with Jupyter Notebook and run it.
 
 ## Commands
 
-Run: `make run`
+Client: `npm start`
 
-Delete app: `make stop`
-
-See logs: `make logs`
+Server:
+- Run: `make run`
+- Stop: `make stop`
+- See logs: `make logs`
